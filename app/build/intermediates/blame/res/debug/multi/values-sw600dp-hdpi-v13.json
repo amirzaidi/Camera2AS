@@ -1,0 +1,273 @@
+[
+    {
+        "outputFile": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-hdpi-v13\\values-sw600dp-hdpi-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 121,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp-hdpi\\drawable.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 121,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endColumn": 137,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp-hdpi\\drawable.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 137,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 99,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp-hdpi\\drawable.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 947,
+                        "endColumn": 99,
+                        "endOffset": 1042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 93,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp-hdpi\\drawable.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1047,
+                        "endColumn": 93,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endColumn": 99,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp-hdpi\\drawable.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1251,
+                        "endColumn": 99,
+                        "endOffset": 1346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endColumn": 109,
+                    "endOffset": 714
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp-hdpi\\drawable.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 109,
+                        "endOffset": 1246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 719,
+                    "endColumn": 93,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp-hdpi\\drawable.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1351,
+                        "endColumn": 93,
+                        "endOffset": 1440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 101,
+                    "endOffset": 910
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp-hdpi\\drawable.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1557,
+                        "endColumn": 101,
+                        "endOffset": 1654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 915,
+                    "endColumn": 111,
+                    "endOffset": 1022
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp-hdpi\\drawable.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1445,
+                        "endColumn": 111,
+                        "endOffset": 1552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1027,
+                    "endColumn": 91,
+                    "endOffset": 1114
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp-hdpi\\drawable.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1659,
+                        "endColumn": 91,
+                        "endOffset": 1746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1119,
+                    "endColumn": 93,
+                    "endOffset": 1208
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp-hdpi\\drawable.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1751,
+                        "endColumn": 93,
+                        "endOffset": 1840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1213,
+                    "endColumn": 123,
+                    "endOffset": 1332
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp-hdpi\\drawable.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1845,
+                        "endColumn": 123,
+                        "endOffset": 1964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1337,
+                    "endColumn": 123,
+                    "endOffset": 1456
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp-hdpi\\drawable.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1969,
+                        "endColumn": 123,
+                        "endOffset": 2088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1461,
+                    "endColumn": 81,
+                    "endOffset": 1538
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp-hdpi\\drawable.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2093,
+                        "endColumn": 81,
+                        "endOffset": 2170
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 775,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1045
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\galaxy_nexus.jpg",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\androidTest\\res\\raw\\galaxy_nexus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\android_lawn.mp4",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\androidTest\\res\\raw\\android_lawn.mp4"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\jpeg_control.jpg",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\androidTest\\res\\raw\\jpeg_control.jpg"
+    }
+]

@@ -1,0 +1,748 @@
+[
+    {
+        "outputFile": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1068,
+                        "endColumn": 58,
+                        "endOffset": 1122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 60,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1127,
+                        "endColumn": 60,
+                        "endOffset": 1183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 58,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1251,
+                        "endColumn": 58,
+                        "endOffset": 1305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 59,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1310,
+                        "endColumn": 59,
+                        "endOffset": 1365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 62,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1188,
+                        "endColumn": 62,
+                        "endOffset": 1246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endColumn": 63,
+                    "endOffset": 416
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1431,
+                        "endColumn": 63,
+                        "endOffset": 1490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 421,
+                    "endColumn": 60,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1370,
+                        "endColumn": 60,
+                        "endOffset": 1426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endColumn": 53,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1697,
+                        "endColumn": 53,
+                        "endOffset": 1746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 53,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1643,
+                        "endColumn": 53,
+                        "endOffset": 1692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 57,
+                    "endOffset": 643
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1751,
+                        "endColumn": 57,
+                        "endOffset": 1804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 648,
+                    "endColumn": 53,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1273,
+                        "endColumn": 53,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 50,
+                    "endOffset": 748
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1222,
+                        "endColumn": 50,
+                        "endOffset": 1268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 753,
+                    "endColumn": 44,
+                    "endOffset": 793
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1177,
+                        "endColumn": 44,
+                        "endOffset": 1217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 798,
+                    "endColumn": 50,
+                    "endOffset": 844
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1886,
+                        "endColumn": 50,
+                        "endOffset": 1932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 849,
+                    "endColumn": 47,
+                    "endOffset": 892
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 907,
+                        "endColumn": 47,
+                        "endOffset": 950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 897,
+                    "endColumn": 53,
+                    "endOffset": 946
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 53,
+                        "endOffset": 902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 951,
+                    "endColumn": 55,
+                    "endOffset": 1002
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endColumn": 55,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1007,
+                    "endColumn": 50,
+                    "endOffset": 1053
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 50,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1058,
+                    "endColumn": 55,
+                    "endOffset": 1109
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 55,
+                        "endOffset": 1006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1114,
+                    "endColumn": 63,
+                    "endOffset": 1173
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1616,
+                        "endColumn": 63,
+                        "endOffset": 1675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1178,
+                    "endColumn": 59,
+                    "endOffset": 1233
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1556,
+                        "endColumn": 59,
+                        "endOffset": 1611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1238,
+                    "endColumn": 56,
+                    "endOffset": 1290
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1011,
+                        "endColumn": 56,
+                        "endOffset": 1063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1295,
+                    "endColumn": 60,
+                    "endOffset": 1351
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1495,
+                        "endColumn": 60,
+                        "endOffset": 1551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1356,
+                    "endColumn": 61,
+                    "endOffset": 1413
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1459,
+                        "endColumn": 61,
+                        "endOffset": 1516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1418,
+                    "endColumn": 63,
+                    "endOffset": 1477
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1521,
+                        "endColumn": 63,
+                        "endOffset": 1580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1482,
+                    "endColumn": 56,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1585,
+                        "endColumn": 56,
+                        "endOffset": 1637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 54,
+                    "endOffset": 1589
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1365,
+                        "endColumn": 54,
+                        "endOffset": 1415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1594,
+                    "endColumn": 92,
+                    "endOffset": 1682
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1037,
+                        "endColumn": 92,
+                        "endOffset": 1125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1687,
+                    "endColumn": 45,
+                    "endOffset": 1728
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1726,
+                        "endColumn": 45,
+                        "endOffset": 1767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1733,
+                    "endColumn": 57,
+                    "endOffset": 1786
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1772,
+                        "endColumn": 57,
+                        "endOffset": 1825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1791,
+                    "endColumn": 55,
+                    "endOffset": 1842
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1830,
+                        "endColumn": 55,
+                        "endOffset": 1881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1847,
+                    "endColumn": 45,
+                    "endOffset": 1888
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1680,
+                        "endColumn": 45,
+                        "endOffset": 1721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1893,
+                    "endColumn": 86,
+                    "endOffset": 1975
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 950,
+                        "endColumn": 86,
+                        "endOffset": 1032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1980,
+                    "endColumn": 92,
+                    "endOffset": 2068
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 92,
+                        "endOffset": 775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2073,
+                    "endColumn": 92,
+                    "endOffset": 2161
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 92,
+                        "endOffset": 945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2166,
+                    "endColumn": 76,
+                    "endOffset": 2238
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 780,
+                        "endColumn": 76,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2243,
+                    "endColumn": 46,
+                    "endOffset": 2285
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endColumn": 46,
+                        "endOffset": 1172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2290,
+                    "endColumn": 47,
+                    "endOffset": 2333
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimensions.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 780,
+                        "endColumn": 47,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2338,
+                    "endColumn": 47,
+                    "endOffset": 2381
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-sw600dp\\dimensions.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endColumn": 47,
+                        "endOffset": 775
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\on_screen_hint_exit.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\anim\\on_screen_hint_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\player_out.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\anim\\player_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\on_screen_hint_enter.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\anim\\on_screen_hint_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    }
+]

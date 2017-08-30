@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="shutter_button_backgrounds" translatable="false">
+        <item>@drawable/shutter_button_background_camera</item>
+        <item>@drawable/shutter_button_background_video</item>
+        <item>@drawable/shutter_button_background_refocus</item>
+        <item>@drawable/shutter_button_background_photosphere</item>
+        <item>@drawable/shutter_button_background_panorama</item>
+        <item>@drawable/shutter_button_background_camera</item>
+        <item>@drawable/shutter_button_background_camera</item>
+    </array>
+    <style name="Camera.ActionBar" parent="android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:displayOptions">useLogo|showHome|homeAsUp</item>
+        <item name="android:background">@drawable/actionbar_translucent</item>
+        <item name="android:backgroundStacked">@null</item>
+    </style>
+    <style name="DialogCheckBox">
+        <item name="android:textColor">@color/dialog_text_color</item>
+        <item name="android:buttonTint">@color/dialog_text_color</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineSpacingExtra">1.9sp</item>
+    </style>
+    <style name="FilmstripBottomControlButton">
+        <item name="android:layout_width">@dimen/filmstrip_bottom_control_button_size</item>
+        <item name="android:layout_height">@dimen/filmstrip_bottom_control_button_size</item>
+        <item name="android:background">@drawable/filmstrip_button_background</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+    <style name="Theme.Camera" parent="android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowTitleSize">0dp</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <!-- for background layout, don't draw background under system bar,
+             reactivate within CameraActivity.onCreate(). -->
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+        <!-- TODO: add background as @drawable/cover after Camera mode cold
+                   start default per b/17702056 -->
+        <item name="android:windowBackground">@color/camera_gray_background</item>
+        <item name="android:colorBackground">@color/camera_gray_background</item>
+        <item name="android:colorBackgroundCacheHint">@color/camera_gray_background</item>
+        <item name="android:actionBarStyle">@style/Camera.ActionBar</item>
+    </style>
+    <style name="Theme.CameraSettings" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:colorPrimary">@color/main_color_global</item>
+    </style>
+</resources>

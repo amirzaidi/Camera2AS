@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-notouch-v14\\values-notouch-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-notouch-v14\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 965,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 471
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-notouch-v14\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 960
+                    }
+                }
+            }
+        ]
+    }
+]

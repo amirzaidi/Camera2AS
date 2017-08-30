@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_hdr_plus_on.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_hdr_plus_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_flash_auto.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_flash_auto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_material_black.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\checkbox_material_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_inner_holo_dark.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\switch_inner_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_pressed.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\bg_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_auto_focus.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_auto_focus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\crop_background.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\crop_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background_pressed_light.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\button_background_pressed_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shutter_button_background_video.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\shutter_button_background_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_timer_3s.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_timer_3s.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_cling.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\settings_cling.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_capture_camera.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_capture_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background_selected_pano.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\button_background_selected_pano.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_gear_background.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\settings_gear_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_capture_refocus.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_capture_refocus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_timer_10s.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_timer_10s.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_holo_dark.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\switch_track_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_trash.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_menu_trash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_capture_panorama.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_capture_panorama.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_text_on_preview.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\bg_text_on_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cancel.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_grid_off.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_grid_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_video.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shutter_button_background_refocus.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\shutter_button_background_refocus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_options.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_hdr_on.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_hdr_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_switch_camera_front.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_switch_camera_front.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_hdr_off.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_hdr_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aspect_ratio_4x3.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\aspect_ratio_4x3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_edit.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_menu_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_gear_background_pressed.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\settings_gear_background_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_flash_off.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_flash_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pano_direction_left_indicator.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\pano_direction_left_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_grid_on.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_grid_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aspect_ratio_16x9.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\aspect_ratio_16x9.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_options_land.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_options_land.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_switch_camera_back.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_switch_camera_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_gear_background_normal.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\settings_gear_background_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cover.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\cover.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_options_port.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_options_port.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\crop_tiled_background.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\crop_tiled_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_options_active.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_options_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pano_direction_right_indicator.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\pano_direction_right_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_picker.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\setting_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_timer_off.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_timer_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_progress_bar.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\bottom_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background_pressed_dark.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\button_background_pressed_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_switch_gcam.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_switch_gcam.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_confirm.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_camera.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_save_photo.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\menu_save_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shutter_button_background_still.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\shutter_button_background_still.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_stop.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background_selected_photo.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\button_background_selected_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_icon_highlight.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\mode_icon_highlight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_craft.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_craft.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_manual_focus.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_manual_focus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_capture_video.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_capture_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_wide_angle.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_wide_angle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_flash_on.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_flash_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_new_shutter.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\btn_new_shutter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_new_shutter_video.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\btn_new_shutter_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_pressed_exit_fading.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\bg_pressed_exit_fading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refocus.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_refocus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_exposure.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_exposure.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_cling.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\button_cling.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_icon_background.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\mode_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shutter_disabled.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\btn_shutter_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_hdr_plus_off.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_hdr_plus_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_back.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background_dark.xml",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable\\button_background_dark.xml"
+    }
+]

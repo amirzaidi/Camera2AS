@@ -1,0 +1,172 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* Android.mk
+* CleanSpec.mk
+* proguard-project.txt
+* proguard.flags
+* res_p\
+* res_p\drawable-hdpi\
+* res_p\drawable-hdpi\ic_pano_blanket.png
+* res_p\drawable-hdpi\ic_panorama_disabled.png
+* res_p\drawable-hdpi\ic_panorama_normal.png
+* res_p\drawable-hdpi\ic_photosphere_blanket.png
+* res_p\drawable-hdpi\ic_photosphere_disabled.png
+* res_p\drawable-hdpi\ic_photosphere_normal.png
+* res_p\drawable-hdpi\ic_refocus_blanket.png
+* res_p\drawable-hdpi\ic_refocus_disabled.png
+* res_p\drawable-hdpi\ic_refocus_normal.png
+* res_p\drawable-mdpi\
+* res_p\drawable-mdpi\ic_pano_blanket.png
+* res_p\drawable-mdpi\ic_panorama_disabled.png
+* res_p\drawable-mdpi\ic_panorama_normal.png
+* res_p\drawable-mdpi\ic_photosphere_blanket.png
+* res_p\drawable-mdpi\ic_photosphere_disabled.png
+* res_p\drawable-mdpi\ic_photosphere_normal.png
+* res_p\drawable-mdpi\ic_refocus_blanket.png
+* res_p\drawable-mdpi\ic_refocus_disabled.png
+* res_p\drawable-mdpi\ic_refocus_normal.png
+* res_p\drawable-xhdpi\
+* res_p\drawable-xhdpi\ic_pano_blanket.png
+* res_p\drawable-xhdpi\ic_panorama_disabled.png
+* res_p\drawable-xhdpi\ic_panorama_normal.png
+* res_p\drawable-xhdpi\ic_photosphere_blanket.png
+* res_p\drawable-xhdpi\ic_photosphere_disabled.png
+* res_p\drawable-xhdpi\ic_photosphere_normal.png
+* res_p\drawable-xhdpi\ic_refocus_blanket.png
+* res_p\drawable-xhdpi\ic_refocus_disabled.png
+* res_p\drawable-xhdpi\ic_refocus_normal.png
+* res_p\drawable-xxhdpi\
+* res_p\drawable-xxhdpi\ic_pano_blanket.png
+* res_p\drawable-xxhdpi\ic_panorama_disabled.png
+* res_p\drawable-xxhdpi\ic_panorama_normal.png
+* res_p\drawable-xxhdpi\ic_photosphere_blanket.png
+* res_p\drawable-xxhdpi\ic_photosphere_disabled.png
+* res_p\drawable-xxhdpi\ic_photosphere_normal.png
+* res_p\drawable-xxhdpi\ic_refocus_blanket.png
+* res_p\drawable-xxhdpi\ic_refocus_disabled.png
+* res_p\drawable-xxhdpi\ic_refocus_normal.png
+* res_p\mipmap-hdpi\
+* res_p\mipmap-hdpi\ic_launcher_gallery.png
+* res_p\mipmap-hdpi\logo_camera_color_44in48dp.png
+* res_p\mipmap-mdpi\
+* res_p\mipmap-mdpi\ic_launcher_gallery.png
+* res_p\mipmap-mdpi\logo_camera_color_44in48dp.png
+* res_p\mipmap-xhdpi\
+* res_p\mipmap-xhdpi\ic_launcher_gallery.png
+* res_p\mipmap-xhdpi\logo_camera_color_44in48dp.png
+* res_p\mipmap-xxhdpi\
+* res_p\mipmap-xxhdpi\logo_camera_color_44in48dp.png
+* res_p\mipmap-xxxhdpi\
+* res_p\mipmap-xxxhdpi\logo_camera_color_44in48dp.png
+* res_p\values\
+* res_p\values\strings.xml
+* src_pd\
+* src_pd\com\
+* src_pd\com\android\
+* src_pd\com\android\camera\
+* src_pd\com\android\camera\app\
+* src_pd\com\android\camera\app\LocationManager.java
+* src_pd\com\android\camera\app\MotionManager.java
+* src_pd\com\android\camera\burst\
+* src_pd\com\android\camera\burst\BurstControllerImpl.java
+* src_pd\com\android\camera\debug\
+* src_pd\com\android\camera\debug\LogHelper.java
+* src_pd\com\android\camera\one\
+* src_pd\com\android\camera\one\v2\
+* src_pd\com\android\camera\one\v2\OneCameraCreator.java
+* src_pd\com\android\camera\stats\
+* src_pd\com\android\camera\stats\CaptureStats.java
+* src_pd\com\android\camera\stats\SessionStatsCollector.java
+* src_pd\com\android\camera\stats\UsageStatistics.java
+* src_pd\com\android\camera\util\
+* src_pd\com\android\camera\util\CameraSettingsActivityHelper.java
+* src_pd\com\android\camera\util\GalleryHelper.java
+* src_pd\com\android\camera\util\GoogleHelpHelper.java
+* src_pd\com\android\camera\util\GservicesHelper.java
+* src_pd\com\android\camera\util\HelpUtils.java
+* src_pd\com\android\camera\util\PhotoSphereHelper.java
+* src_pd\com\android\camera\util\RefocusHelper.java
+* src_pd\com\android\camera\util\ReleaseHelper.java
+* src_pd\com\android\camera\util\RemoteShutterHelper.java
+* src_pd\com\android\camera\util\SystemProperties.java
+* src_pd\com\google\
+* src_pd\com\google\common\
+* src_pd\com\google\common\logging\
+* src_pd\com\google\common\logging\eventprotos.java
+* src_pd_gcam\
+* src_pd_gcam\com\
+* src_pd_gcam\com\android\
+* src_pd_gcam\com\android\camera\
+* src_pd_gcam\com\android\camera\util\
+* src_pd_gcam\com\android\camera\util\GcamHelper.java
+* tests\
+* tests\Android.mk
+* tests\exiftool_parser\
+* tests\exiftool_parser\parser.py
+* tests_camera\
+* tests_camera\AndroidManifest.xml
+* tests_camera\src\
+* tests_camera\src\com\
+* tests_camera\src\com\android\
+* tests_camera\src\com\android\camera\
+* tests_camera\src\com\android\camera\CameraLaunchPerformance.java
+* tests_camera\src\com\android\camera\CameraTestRunner.java
+* tests_camera\src\com\android\camera\StressTests.java
+* tests_camera\src\com\android\camera\UnitTests.java
+* tests_camera\src\com\android\camera\activity\
+* tests_camera\src\com\android\camera\activity\CameraActivityTest.java
+* tests_camera\src\com\android\camera\activity\CameraTestCase.java
+* tests_camera\src\com\android\camera\functional\
+* tests_camera\src\com\android\camera\functional\CameraTest.java
+* tests_camera\src\com\android\camera\functional\ImageCaptureIntentTest.java
+* tests_camera\src\com\android\camera\functional\VideoCaptureIntentTest.java
+* tests_camera\src\com\android\camera\power\
+* tests_camera\src\com\android\camera\power\ImageAndVideoCapture.java
+* tests_camera\src\com\android\camera\stress\
+* tests_camera\src\com\android\camera\stress\CameraLatency.java
+* tests_camera\src\com\android\camera\stress\CameraStartUp.java
+* tests_camera\src\com\android\camera\stress\CameraStressTestRunner.java
+* tests_camera\src\com\android\camera\stress\ImageCapture.java
+* tests_camera\src\com\android\camera\stress\ShotToShotLatency.java
+* tests_camera\src\com\android\camera\stress\SwitchPreview.java
+* tests_camera\src\com\android\camera\stress\TestUtil.java
+* tests_camera\src\com\android\camera\stress\VideoCapture.java
+* tests_camera\src\com\android\camera\unittest\
+* tests_camera\src\com\android\camera\unittest\CameraUnitTest.java
+* version.mk
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* jni\ => app\src\main\jni\
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* tests\res\ => app\src\androidTest\res\
+* tests\src\ => app\src\androidTest\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

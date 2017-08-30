@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\aspect_ratio_16x9_unselected.jpg",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxhdpi\\aspect_ratio_16x9_unselected.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\aspect_ratio_4x3_selected.jpg",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxhdpi\\aspect_ratio_4x3_selected.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\aspect_ratio_16x9_selected.jpg",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxhdpi\\aspect_ratio_16x9_selected.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\aspect_ratio_4x3_unselected.jpg",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxhdpi\\aspect_ratio_4x3_unselected.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\geo_opt_in_graphic.jpg",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxhdpi\\geo_opt_in_graphic.jpg"
+    }
+]

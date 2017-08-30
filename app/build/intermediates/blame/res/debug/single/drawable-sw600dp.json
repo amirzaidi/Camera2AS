@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\ic_vidcontrol_play.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-sw600dp\\ic_vidcontrol_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\ic_pan_thumb.9.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-sw600dp\\ic_pan_thumb.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\scrubber_knob.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-sw600dp\\scrubber_knob.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\bg_vidcontrol.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-sw600dp\\bg_vidcontrol.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\ic_vidcontrol_pause.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-sw600dp\\ic_vidcontrol_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\ic_video_thumb.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-sw600dp\\ic_video_thumb.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\ic_vidcontrol_reload.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-sw600dp\\ic_vidcontrol_reload.png"
+    }
+]

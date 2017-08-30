@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="2634861611082499811" name="access_sd_fail" product="default">"無法存取 SD 卡。"</string>
+    <string msgid="5679989494636116448" name="accessibility_cancel_button">"取消"</string>
+    <string msgid="1084094675439953723" name="accessibility_check_box">"%1$s選框"</string>
+    <string msgid="6966978483643396442" name="accessibility_filmstrip_toggle">"切換幻燈片"</string>
+    <string msgid="7692103503958544723" name="accessibility_menu_button">"選單按鈕"</string>
+    <string msgid="3743267380450401866" name="accessibility_mode_list_hidden">"已關閉模式清單"</string>
+    <string msgid="5284322142734069179" name="accessibility_mode_list_shown">"已開啟模式清單"</string>
+    <string msgid="4784230103566918645" name="accessibility_mode_list_toggle">"切換模式清單"</string>
+    <string msgid="6376831760155403217" name="accessibility_mode_options">"選項"</string>
+    <string msgid="8850636036927992409" name="accessibility_mode_zoom_minus">"縮小"</string>
+    <string msgid="4967389173992713073" name="accessibility_mode_zoom_plus">"放大"</string>
+    <string msgid="5462850829869569629" name="accessibility_review_cancel">"取消"</string>
+    <string msgid="3486465319880320270" name="accessibility_review_ok">"完成"</string>
+    <string msgid="2547112860787022130" name="accessibility_review_retake">"重拍"</string>
+    <string msgid="6040483605347230438" name="accessibility_shutter_button">"快門"</string>
+    <string msgid="4518394037216725274" name="accessibility_switch_to_camera">"切換至相片"</string>
+    <string msgid="7562625440767034695" name="accessibility_switch_to_gcam">"切換至高畫質"</string>
+    <string msgid="8322228859117808037" name="accessibility_switch_to_panorama">"切換至全景相片"</string>
+    <string msgid="5803217570370854725" name="accessibility_switch_to_photo_sphere">"切換至「Photo Sphere 全景相片」"</string>
+    <string msgid="6796169367953860106" name="accessibility_switch_to_refocus">"切換至重新對焦模式"</string>
+    <string msgid="8174781871592793967" name="accessibility_switch_to_video">"切換至影片"</string>
+    <string msgid="1251880974313179442" name="accessibility_unlock_to_camera">"解鎖至相機"</string>
+    <string msgid="6976673411698319811" name="accessibility_zoom_announcement">"縮放值為 %.1f"</string>
+    <string msgid="2453802098282814022" name="aperture">"光圈"</string>
+    <string msgid="1175086483881127797" name="app_name">"相機"</string>
+    <string msgid="2552649885114400474" name="auto">"自動"</string>
+    <string msgid="3666693972882351490" name="btn_filmstrip_toggle">"幻燈片"</string>
+    <string msgid="3986242443098400164" name="btn_mode_list_toggle">"模式清單"</string>
+    <string msgid="5436240345362098272" name="btn_zoom_minus">"縮小"</string>
+    <string msgid="4645138949375961656" name="btn_zoom_plus">"放大"</string>
+    <string msgid="3759686152778772111" name="button_change_announcement">"按鈕目前狀態為%s"</string>
+    <string msgid="6200558085072670067" name="camera_error_title">"相機錯誤"</string>
+    <string msgid="3566327490758890635" name="camera_id_back_desc">"後置鏡頭"</string>
+    <string msgid="7497517948130254220" name="camera_id_front_desc">"前置鏡頭"</string>
+    <string msgid="7951917844735828365" name="camera_menu_more_label">"更多選項"</string>
+    <string msgid="3862756725328016822" name="camera_menu_settings_label">"設定"</string>
+    <string msgid="3801167024006905033" name="cancel_button_description">"取消"</string>
+    <string msgid="4100136187076585580" name="cannot_load_image">"無法載入相片！"</string>
+    <string msgid="3020696135020167263" name="capital_off">"關閉"</string>
+    <string msgid="1118214824959797269" name="capital_on">"開啟"</string>
+    <string msgid="5255164204641920893" name="capturing">"拍攝中"</string>
+    <string msgid="6192797848995967992" name="clear_effects">"清除效果"</string>
+    <string msgid="4785017397116829802" name="cling_text_for_refocus_editor_button">"如要重新對焦，請輕觸這裡"</string>
+    <string msgid="4826166926297479820" name="close">"關閉"</string>
+    <string msgid="7389949384482206814" name="confirm_button_text">"好，我明白了"</string>
+    <string msgid="7586031110595513050" name="count_down_title_text">"為拍照倒數中"</string>
+    <string msgid="9085308782250002795" name="countdown_timer_duration_10s">"倒數計時器時間已設定為 10 秒"</string>
+    <string msgid="7435393834886072664" name="countdown_timer_duration_3s">"倒數計時器時間已設定為 3 秒"</string>
+    <string msgid="1663008439564495948" name="countdown_timer_off">"倒數計時器已關閉"</string>
+    <string msgid="5186918191372107343" name="create_tiny_planet">"建立蟲視視角相片"</string>
+    <string msgid="6933589718464132714" name="crop_action">"裁剪"</string>
+    <string msgid="2841974981340098579" name="crop_save">"儲存"</string>
+    <string msgid="4742161537633251795" name="cropped_sensor_16x9_aspect_ratio">"已裁剪感應器 \n(16:9)"</string>
+    <string msgid="2714492172818940424" name="delete">"刪除"</string>
+    <string msgid="2251065309677200911" name="delete_button_description">"刪除"</string>
+    <string msgid="2036165115527228127" name="deleted">"已刪除"</string>
+    <string msgid="8193138501982849808" name="description">"說明"</string>
+    <string msgid="4404020741542549488" name="details">"詳細資料"</string>
+    <string msgid="4842276230698703554" name="details_hms">"%1$d:%2$02d:%3$02d"</string>
+    <string msgid="6618163484662724641" name="details_ms">"%1$02d:%2$02d"</string>
+    <string msgid="692365061128351656" name="dialog_cancel">"取消"</string>
+    <string msgid="1382550604990470119" name="dialog_dismiss">"關閉"</string>
+    <string msgid="774141340500181131" name="dialog_ok">"確定"</string>
+    <string msgid="7616428760369876209" name="dialog_report">"報告"</string>
+    <string msgid="1334963435441544592" name="done_button_description">"完成"</string>
+    <string msgid="5316211067383665008" name="duration">"片長"</string>
+    <string msgid="2776879395749004347" name="edit">"編輯"</string>
+    <string msgid="98550816724901925" name="edit_button_description">"編輯"</string>
+    <string msgid="615569327230783971" name="edit_with">"使用以下選擇器編輯："</string>
+    <string msgid="2333888391153564920" name="effect_backdropper_gallery">"您的影片"</string>
+    <string msgid="9133825395915767627" name="effect_backdropper_space">"太空"</string>
+    <string msgid="7354053769863638757" name="effect_backdropper_sunset">"日落"</string>
+    <string msgid="1358432220077975015" name="effect_background">"背景"</string>
+    <string msgid="9220121522816762649" name="effect_goofy_face_big_eyes">"大眼睛"</string>
+    <string msgid="2064008284599552683" name="effect_goofy_face_big_mouth">"大嘴巴"</string>
+    <string msgid="6936976307035428164" name="effect_goofy_face_big_nose">"大鼻子"</string>
+    <string msgid="558042211252573238" name="effect_goofy_face_small_eyes">"小眼睛"</string>
+    <string msgid="3105849596912069261" name="effect_goofy_face_small_mouth">"小嘴巴"</string>
+    <string msgid="1362021544829311452" name="effect_goofy_face_squeeze">"擠壓"</string>
+    <string msgid="3102797925086872636" name="effect_none">"無"</string>
+    <string msgid="7952713419757286453" name="effect_silly_faces">"趣怪臉"</string>
+    <string msgid="5582398275657419692" name="error_camera_disabled">"基於安全政策，相機已停用。"</string>
+    <string msgid="2713059773224193128" name="error_cannot_connect_camera">"無法連接相機。"</string>
+    <string msgid="7711687330673245629" name="error_media_storage_failure">"儲存您的相片或影片時發生問題。"</string>
+    <string msgid="3454167403425651254" name="error_permissions">"應用程式欠缺執行所需的關鍵權限。請檢查您的權限設定。"</string>
+    <string msgid="2820273752287040523" name="exposure_compensation_desc_0">"曝光補償 0"</string>
+    <string msgid="3035027224866688267" name="exposure_compensation_desc_n1">"曝光補償 -1"</string>
+    <string msgid="8957966533506294324" name="exposure_compensation_desc_n2">"曝光補償 -2"</string>
+    <string msgid="2328275401634452554" name="exposure_compensation_desc_p1">"曝光補償 +1"</string>
+    <string msgid="4555277824096107142" name="exposure_compensation_desc_p2">"曝光補償 +2"</string>
+    <string msgid="949787291620767754" name="exposure_time">"曝光時間"</string>
+    <string msgid="419090951070170132" name="feedback_description_camera_access">"應用程式無法連接到相機"</string>
+    <string msgid="8658767358989083228" name="feedback_description_save_photo">"相片或影片並未儲存在裝置上。"</string>
+    <string msgid="6841070748357980676" name="file_size">"檔案大小"</string>
+    <string msgid="995041910749174196" name="flash">"閃光燈"</string>
+    <string msgid="3009043125539675717" name="flash_auto_desc">"自動閃光燈"</string>
+    <string msgid="7889323512830926273" name="flash_off">"未使用閃光燈"</string>
+    <string msgid="7151559466286106797" name="flash_off_desc">"關閉閃光燈"</string>
+    <string msgid="6573457197393807642" name="flash_on">"使用閃光燈"</string>
+    <string msgid="930372145324854699" name="flash_on_desc">"開啟閃光燈"</string>
+    <string msgid="8351221512187346229" name="focal_length">"焦距"</string>
+    <string msgid="1270461419743888925" name="full_sensor_4x3_aspect_ratio">"原尺寸感應器 \n(4:3)"</string>
+    <string msgid="2022385817190451353" name="grid_lines_off_desc">"網格線關閉"</string>
+    <string msgid="4601540461914364817" name="grid_lines_on_desc">"網格線開啟"</string>
+    <string msgid="7921924739852874675" name="hdr_off_desc">"關閉 HDR"</string>
+    <string msgid="4591284110249047558" name="hdr_on_desc">"開啟 HDR"</string>
+    <string msgid="4812200236263011537" name="hdr_plus_flash_auto_desc">"HDR+ 自動閃光燈"</string>
+    <string msgid="5335888906983788789" name="hdr_plus_flash_off_desc">"HDR+ 閃光燈已關閉"</string>
+    <string msgid="8323389161987561284" name="hdr_plus_flash_on_desc">"HDR+ 閃光燈已開啟"</string>
+    <string msgid="5301287296717144319" name="hdr_plus_off_desc">"關閉 HDR Plus"</string>
+    <string msgid="8204780034508139909" name="hdr_plus_on_desc">"開啟 HDR Plus"</string>
+    <string msgid="5186001199353423689" name="height">"高度"</string>
+    <string msgid="8578773821062054902" name="iso">"ISO"</string>
+    <string msgid="564326205780827668" name="location">"位置"</string>
+    <string msgid="698691509121545856" name="maker">"製造商"</string>
+    <string msgid="2444400953521760140" name="manual">"手動"</string>
+    <string msgid="5595219532556566042" name="manual_exposure_compensation_desc">"手動曝光補償"</string>
+    <string msgid="234540330161031946" name="media_accessibility_peek">"已拍攝"</string>
+    <string msgid="2155634843596817141" name="media_date_content_description">"%s 拍攝的媒體項目"</string>
+    <string msgid="8138587719107183754" name="media_processing_content_description">"正在處理媒體"</string>
+    <string msgid="6415940055077963944" name="mimetype">"MIME 類型"</string>
+    <string msgid="279763925715250603" name="mode_camera">"相機"</string>
+    <string msgid="3670807361165657278" name="mode_camera_desc">"切換至相機模式"</string>
+    <string msgid="6882648621305828861" name="mode_panorama">"全景相片"</string>
+    <string msgid="6023020404237519590" name="mode_panorama_desc">"切換至全景模式"</string>
+    <string msgid="5082338476237291833" name="mode_photosphere">"Photo Sphere"</string>
+    <string msgid="2403816283825579161" name="mode_photosphere_desc">"切換至全景相片模式"</string>
+    <string msgid="172192967119469061" name="mode_refocus">"鏡頭模糊"</string>
+    <string msgid="6171183297515508465" name="mode_refocus_desc">"切換至鏡頭模糊模式"</string>
+    <string msgid="2021937261522670921" name="mode_settings">"設定"</string>
+    <string msgid="1517168724627815453" name="mode_timelapse">"延時攝影"</string>
+    <string msgid="8633929034048169139" name="mode_video">"影片"</string>
+    <string msgid="4058407412929464689" name="mode_video_desc">"切換至攝影機"</string>
+    <string msgid="1099640345041696830" name="mode_wideangle">"廣角"</string>
+    <string msgid="8547493604023069452" name="model">"型號"</string>
+    <string msgid="4628738800610478353" name="more_options_desc">"更多選項"</string>
+    <string msgid="5922012950780548098" name="no_storage" product="default">"使用相機前，請先插入 SD 卡。"</string>
+    <string msgid="3260801086980522611" name="not_selectable_in_scene_mode">"在場景模式中無法選取。"</string>
+    <string msgid="2169711954264883060" name="open_source_licenses">"開放原始碼授權"</string>
+    <string msgid="3883761294106680270" name="orientation">"方向"</string>
+    <string msgid="4002128831255023954" name="pano_capture_indication">"正在拍攝全景相片"</string>
+    <string msgid="6772546547048693619" name="pano_dialog_panorama_failed">"無法儲存全景相片。"</string>
+    <string msgid="4445235163599534263" name="pano_dialog_prepare_preview">"正在準備全景相片預覽"</string>
+    <string msgid="6662642763395425145" name="pano_dialog_title">"全景相片"</string>
+    <string msgid="2646847402743245320" name="pano_dialog_waiting_previous">"正在等待處理先前的全景相片"</string>
+    <string msgid="2743087719999377155" name="pano_review_rendering">"正在輸出全景相片"</string>
+    <string msgid="4691771283450663293" name="pano_review_saving_indication_str">"正在儲存…"</string>
+    <string msgid="2503148095578052177" name="pano_too_fast_prompt">"太快"</string>
+    <string msgid="990703578639006144" name="panorama_date_content_description">"%s 拍攝的全景相片"</string>
+    <string msgid="5927003361865586353" name="path">"路徑"</string>
+    <string msgid="5934133371001677250" name="photo_accessibility_peek">"已拍照"</string>
+    <string msgid="6668224437962196229" name="photo_aspect_ratio_selection_content">"您可以稍後在 [設定] 中變更這項設定。"</string>
+    <string msgid="5705865897898465619" name="photo_date_content_description">"%s 拍攝的相片"</string>
+    <string msgid="1521994560971367225" name="photo_editor">"相片編輯程式"</string>
+    <string msgid="2789753590719172645" name="photo_size_selection_title">"選擇相片尺寸"</string>
+    <string msgid="4183741743409007876" name="photosphere_date_content_description">"%s 拍攝的 Photo Sphere 全景相片"</string>
+    <string msgid="1416313324505140068" name="please_wait">"請稍候"</string>
+    <string msgid="461317129020087333" name="pref_boolean_false">"0"</string>
+    <string msgid="4131945223998878009" name="pref_boolean_true">"1"</string>
+    <string msgid="3553148484755353397" name="pref_camcorder_settings_category">"攝錄機設定"</string>
+    <string msgid="8469955900530268867" name="pref_camera_countdown_label_fifteen">"15 秒"</string>
+    <string msgid="3986433580620011481" name="pref_camera_countdown_label_off">"計時器已關閉"</string>
+    <string msgid="7647972711796868848" name="pref_camera_countdown_label_one">"1 秒"</string>
+    <string msgid="4372650985906500604" name="pref_camera_countdown_label_ten">"10 秒"</string>
+    <string msgid="3154170918067103541" name="pref_camera_countdown_label_three">"3 秒"</string>
+    <string msgid="4143245817259719147" name="pref_camera_exposure_compensation">"手動曝光"</string>
+    <string msgid="4211992591841657014" name="pref_camera_flashmode_entry_auto">"自動"</string>
+    <string msgid="8861322265566617357" name="pref_camera_flashmode_entry_off">"關閉"</string>
+    <string msgid="3519831202665377698" name="pref_camera_flashmode_entry_on">"開啟"</string>
+    <string msgid="5852483713534762800" name="pref_camera_flashmode_label">"閃光燈模式"</string>
+    <string msgid="2309144918900450379" name="pref_camera_flashmode_label_auto">"自動閃光燈"</string>
+    <string msgid="7175863901446001441" name="pref_camera_flashmode_label_off">"關閉閃光燈"</string>
+    <string msgid="373595517770024934" name="pref_camera_flashmode_label_on">"開啟閃光燈"</string>
+    <string msgid="8363803841022314574" name="pref_camera_flashmode_title">"閃光燈模式"</string>
+    <string msgid="8977409813328199501" name="pref_camera_focusmode_entry_auto">"自動"</string>
+    <string msgid="3887667853236656322" name="pref_camera_focusmode_entry_infinity">"無限"</string>
+    <string msgid="7632276686726851426" name="pref_camera_focusmode_entry_macro">"微距"</string>
+    <string msgid="4884418453600317694" name="pref_camera_focusmode_label_auto">"自動"</string>
+    <string msgid="1673352016120343314" name="pref_camera_focusmode_label_infinity">"無限"</string>
+    <string msgid="5065639298027996399" name="pref_camera_focusmode_label_macro">"微距"</string>
+    <string msgid="3637702747984180030" name="pref_camera_focusmode_title">"對焦模式"</string>
+    <string msgid="1918040375414771185" name="pref_camera_hdr_label">"高動態範圍"</string>
+    <string msgid="6386943973628160510" name="pref_camera_id_entry_back">"後置鏡頭"</string>
+    <string msgid="6233067010315787044" name="pref_camera_id_entry_front">"前置鏡頭"</string>
+    <string msgid="1645608049757733858" name="pref_camera_id_label_back">"前置鏡頭"</string>
+    <string msgid="349308803062874842" name="pref_camera_id_label_front">"後置鏡頭"</string>
+    <string msgid="4680648115225411185" name="pref_camera_id_title">"選擇相機"</string>
+    <string msgid="8695441802378057719" name="pref_camera_location_label">"位置"</string>
+    <string msgid="9014447075089601575" name="pref_camera_picturesize_entry_large">"大"</string>
+    <string msgid="7708839551627003154" name="pref_camera_picturesize_entry_medium">"中"</string>
+    <string msgid="2991239656622539068" name="pref_camera_picturesize_entry_small">"小"</string>
+    <string msgid="686045304547541815" name="pref_camera_picturesize_title">"相片大小"</string>
+    <string msgid="2344235620113384017" name="pref_camera_save_location_title">"儲存位置資料"</string>
+    <string msgid="5753183620959062015" name="pref_camera_scenemode_entry_action">"動作"</string>
+    <string msgid="9205644316260850379" name="pref_camera_scenemode_entry_auto">"自動"</string>
+    <string msgid="3098836808080630955" name="pref_camera_scenemode_entry_hdr">"高動態範圍"</string>
+    <string msgid="6759085555519758794" name="pref_camera_scenemode_entry_hdr_plus">"HDR+ (高動態範圍)"</string>
+    <string msgid="3468037364159759991" name="pref_camera_scenemode_entry_night">"夜景"</string>
+    <string msgid="401232668169066415" name="pref_camera_scenemode_entry_party">"派對"</string>
+    <string msgid="5884302914893488509" name="pref_camera_scenemode_entry_sunset">"日落"</string>
+    <string msgid="7694606461440250206" name="pref_camera_scenemode_entry_turn_hdr_off">"關閉 HDR"</string>
+    <string msgid="5232394324298489502" name="pref_camera_scenemode_entry_turn_hdr_on">"開啟 HDR"</string>
+    <string msgid="2668770361856397834" name="pref_camera_scenemode_entry_turn_hdr_plus_off">"關閉 HDR+"</string>
+    <string msgid="1096746750342289067" name="pref_camera_scenemode_entry_turn_hdr_plus_on">"開啟 HDR+"</string>
+    <string msgid="1822814017595414923" name="pref_camera_scenemode_label_action">"動作"</string>
+    <string msgid="2874586883608401615" name="pref_camera_scenemode_label_auto">"無"</string>
+    <string msgid="7764371228088101131" name="pref_camera_scenemode_label_night">"夜景"</string>
+    <string msgid="917499272505930322" name="pref_camera_scenemode_label_party">"派對"</string>
+    <string msgid="3443610538453611123" name="pref_camera_scenemode_label_sunset">"日落"</string>
+    <string msgid="5709932164781367066" name="pref_camera_scenemode_title">"場景模式"</string>
+    <string msgid="4274141528139077830" name="pref_camera_settings_category">"相機設定"</string>
+    <string msgid="9036987234878551217" name="pref_camera_timer_sound_title">"倒數時發出嗶聲"</string>
+    <string msgid="4728838281741571323" name="pref_camera_timer_title">"倒數計時器"</string>
+    <string msgid="1390631794449502796" name="pref_camera_whitebalance_entry_auto">"自動"</string>
+    <string msgid="3569589102226796875" name="pref_camera_whitebalance_entry_cloudy">"陰天"</string>
+    <string msgid="757833578153467254" name="pref_camera_whitebalance_entry_daylight">"日光"</string>
+    <string msgid="5157027611220790970" name="pref_camera_whitebalance_entry_fluorescent">"光管"</string>
+    <string msgid="1140391575294372706" name="pref_camera_whitebalance_entry_incandescent">"鎢絲燈"</string>
+    <string msgid="7370366644738746700" name="pref_camera_whitebalance_label">"白平衡"</string>
+    <string msgid="4305837287360485369" name="pref_camera_whitebalance_label_auto">"自動"</string>
+    <string msgid="4880793739075193336" name="pref_camera_whitebalance_label_cloudy">"陰天"</string>
+    <string msgid="4562002095198912409" name="pref_camera_whitebalance_label_daylight">"日光"</string>
+    <string msgid="10552295745391742" name="pref_camera_whitebalance_label_fluorescent">"光管"</string>
+    <string msgid="2860805668879945185" name="pref_camera_whitebalance_label_incandescent">"鎢絲燈"</string>
+    <string msgid="7962809566612868179" name="pref_camera_whitebalance_title">"白平衡"</string>
+    <string msgid="1966255405679342337" name="pref_category_about">"關於"</string>
+    <string msgid="5921085080077574872" name="pref_category_advanced">"進階"</string>
+    <string msgid="6737748849700581019" name="pref_category_general">"一般設定"</string>
+    <string msgid="6641462402321962896" name="pref_category_resolution_quality">"解像度和畫質"</string>
+    <string msgid="2604738602400261218" name="pref_exposure_label">"曝光"</string>
+    <string msgid="7525751789152582800" name="pref_exposure_title">"曝光"</string>
+    <string msgid="481489988124832651" name="pref_title_build_version">"型號版本"</string>
+    <string msgid="594570613431209010" name="pref_video_effect_title">"效果"</string>
+    <string msgid="4539958891524211120" name="pref_video_quality_entry_1080p">"高清畫質 (1080p)"</string>
+    <string msgid="4522927631413184505" name="pref_video_quality_entry_2160p">"UHD 4K 解析度"</string>
+    <string msgid="5880250731066854583" name="pref_video_quality_entry_480p">"標清畫質 (480p)"</string>
+    <string msgid="4076146428148167262" name="pref_video_quality_entry_720p">"高清畫質 (720p)"</string>
+    <string msgid="645414019445016434" name="pref_video_quality_entry_cif">"CIF"</string>
+    <string msgid="1613578418842803393" name="pref_video_quality_entry_high">"高"</string>
+    <string msgid="737962621299050603" name="pref_video_quality_entry_low">"低"</string>
+    <string msgid="1717816794399266216" name="pref_video_quality_entry_qcif">"QCIF"</string>
+    <string msgid="342600517453781430" name="pref_video_quality_entry_qvga">"QVGA"</string>
+    <string msgid="5887153490982738588" name="pref_video_quality_title">"影片品質"</string>
+    <string msgid="9126255690984179200" name="pref_video_time_lapse_frame_interval_1000">"1 秒"</string>
+    <string msgid="1126841483618922521" name="pref_video_time_lapse_frame_interval_10000">"10 秒"</string>
+    <string msgid="4064231412857457518" name="pref_video_time_lapse_frame_interval_10800000">"3 小時"</string>
+    <string msgid="8769265988037327085" name="pref_video_time_lapse_frame_interval_12000">"12 秒"</string>
+    <string msgid="126293364329503816" name="pref_video_time_lapse_frame_interval_120000">"2 分鐘"</string>
+    <string msgid="5691479246748705053" name="pref_video_time_lapse_frame_interval_1440000">"24 分鐘"</string>
+    <string msgid="5174457951350690217" name="pref_video_time_lapse_frame_interval_14400000">"4 小時"</string>
+    <string msgid="5793250074165436905" name="pref_video_time_lapse_frame_interval_1500">"1.5 秒"</string>
+    <string msgid="1452711342185926617" name="pref_video_time_lapse_frame_interval_15000">"15 秒"</string>
+    <string msgid="3469164780802564276" name="pref_video_time_lapse_frame_interval_150000">"2.5 分鐘"</string>
+    <string msgid="6840421790710639463" name="pref_video_time_lapse_frame_interval_180000">"3 分鐘"</string>
+    <string msgid="8331728629455012478" name="pref_video_time_lapse_frame_interval_1800000">"0.5 小時"</string>
+    <string msgid="5091441456160949740" name="pref_video_time_lapse_frame_interval_18000000">"5 小時"</string>
+    <string msgid="1821755013078449188" name="pref_video_time_lapse_frame_interval_2000">"2 秒"</string>
+    <string msgid="6924571987775154098" name="pref_video_time_lapse_frame_interval_21600000">"6 小時"</string>
+    <string msgid="2505505645705111419" name="pref_video_time_lapse_frame_interval_24000">"24 秒"</string>
+    <string msgid="1682865866425206481" name="pref_video_time_lapse_frame_interval_240000">"4 分鐘"</string>
+    <string msgid="8027471301321122045" name="pref_video_time_lapse_frame_interval_2500">"2.5 秒"</string>
+    <string msgid="1411114492405867872" name="pref_video_time_lapse_frame_interval_3000">"3 秒"</string>
+    <string msgid="3965378176246680626" name="pref_video_time_lapse_frame_interval_30000">"0.5 分鐘"</string>
+    <string msgid="6068734332915957652" name="pref_video_time_lapse_frame_interval_300000">"5 分鐘"</string>
+    <string msgid="4692565393277579688" name="pref_video_time_lapse_frame_interval_360000">"6 分鐘"</string>
+    <string msgid="4829442147263610121" name="pref_video_time_lapse_frame_interval_3600000">"1 小時"</string>
+    <string msgid="6959912631566981301" name="pref_video_time_lapse_frame_interval_36000000">"10 小時"</string>
+    <string msgid="1197483421014140132" name="pref_video_time_lapse_frame_interval_4000">"4 秒"</string>
+    <string msgid="6426833030111269499" name="pref_video_time_lapse_frame_interval_43200000">"12 小時"</string>
+    <string msgid="1425296755074319221" name="pref_video_time_lapse_frame_interval_500">"0.5 秒"</string>
+    <string msgid="7211885329755347592" name="pref_video_time_lapse_frame_interval_5000">"5 秒"</string>
+    <string msgid="7011488725038113884" name="pref_video_time_lapse_frame_interval_5400000">"1.5 小時"</string>
+    <string msgid="6688725497680331090" name="pref_video_time_lapse_frame_interval_54000000">"15 小時"</string>
+    <string msgid="6665825017557898190" name="pref_video_time_lapse_frame_interval_6000">"6 秒"</string>
+    <string msgid="1878467100201983878" name="pref_video_time_lapse_frame_interval_60000">"1 分鐘"</string>
+    <string msgid="7109530398883649472" name="pref_video_time_lapse_frame_interval_600000">"10 分鐘"</string>
+    <string msgid="259321148909130247" name="pref_video_time_lapse_frame_interval_720000">"12 分鐘"</string>
+    <string msgid="7399563587870916008" name="pref_video_time_lapse_frame_interval_7200000">"2 小時"</string>
+    <string msgid="5510320806095156153" name="pref_video_time_lapse_frame_interval_86400000">"24 小時"</string>
+    <string msgid="496651530019049822" name="pref_video_time_lapse_frame_interval_90000">"1.5 分鐘"</string>
+    <string msgid="6814816608134052996" name="pref_video_time_lapse_frame_interval_900000">"15 分鐘"</string>
+    <string msgid="1545856778907835970" name="pref_video_time_lapse_frame_interval_9000000">"2.5 小時"</string>
+    <string msgid="3909611941842585497" name="pref_video_time_lapse_frame_interval_off">"關閉"</string>
+    <string msgid="4975260837607993569" name="pref_video_time_lapse_frame_interval_title">"延時攝影"</string>
+    <string msgid="7435693655017362767" name="preparing_sd" product="default">"正在準備 SD 卡…"</string>
+    <string msgid="9160093263037540304" name="processing_hdr_plus">"正在處理 HDR+ …"</string>
+    <string msgid="6818898304774654969" name="reason_storage_failure">"相片儲存失敗。"</string>
+    <string msgid="5630960320424345547" name="refocus_date_content_description">"%s 拍攝的鏡頭模糊相片"</string>
+    <string msgid="4412802756840226925" name="remember_location_no">"不需要，謝謝"</string>
+    <string msgid="3006013504489919474" name="remember_location_prompt">"為您的相片和影片標記拍攝地點。"</string>
+    <string msgid="3045040613094030429" name="remember_location_title">"記錄拍攝地點？"</string>
+    <string msgid="4339424460683531388" name="remember_location_yes">"是"</string>
+    <string msgid="4234613030674787714" name="retake_button_description">"重拍"</string>
+    <string msgid="7932122063748430080" name="review_button_description">"評論"</string>
+    <string msgid="2618440058490662604" name="rotate_left">"向左旋轉"</string>
+    <string msgid="4896096424267838355" name="rotate_right">"向右旋轉"</string>
+    <string msgid="8828265180177375494" name="saving_tiny_planet">"正在儲存蟲視視角相片…"</string>
+    <string msgid="8932315404486416826" name="session_saving_image">"正在儲存…"</string>
+    <string msgid="5469055085024870081" name="set_as">"設為"</string>
+    <string msgid="1638453882581604341" name="set_duration">"設定倒數時間 (以秒為單位)"</string>
+    <string msgid="3969690281401045698" name="set_image">"將相片設為"</string>
+    <string msgid="2531393962847535331" name="set_time_interval">"設定時間間隔"</string>
+    <string msgid="64145154088021389" name="set_time_interval_help">"延時攝影功能已關閉，請開啟以設定時間間隔。"</string>
+    <string msgid="256738900473265017" name="setting_back_camera_photo">"後置鏡頭相片"</string>
+    <string msgid="5220819479408164689" name="setting_back_camera_video">"後置鏡頭影片"</string>
+    <string msgid="6954076799301004779" name="setting_default_camera">"預設相機"</string>
+    <string msgid="4131886734622868637" name="setting_front_camera_photo">"前置鏡頭相片"</string>
+    <string msgid="2178799452805359752" name="setting_front_camera_video">"前置鏡頭影片"</string>
+    <string msgid="2079580537079242775" name="setting_google_help_and_feedback">"說明和意見反映"</string>
+    <string msgid="4459859689227893838" name="setting_location">"位置"</string>
+    <string msgid="6782191065550276632" name="setting_off">"關閉"</string>
+    <string msgid="9086728135773197891" name="setting_on">"開啟"</string>
+    <string msgid="5828440902461064821" name="setting_summary_aspect_ratio_and_megapixels">"(%1$d:%2$d) %3$s 百萬像素"</string>
+    <string msgid="6533463462760866830" name="setting_summary_x_megapixels">"%1$s 百萬像素"</string>
+    <string msgid="2397759659347872725" name="setting_wallpaper">"正在設定桌布"</string>
+    <string msgid="5368054627268181292" name="settings_cling_text">"您可以在 [設定] 中變更解像度和畫質，或嘗試使用進階功能。"</string>
+    <string msgid="3095831199632813127" name="settings_close_desc">"關閉設定"</string>
+    <string msgid="6914471293841793766" name="settings_open_desc">"開啟設定"</string>
+    <string msgid="8581089487762243115" name="share">"分享"</string>
+    <string msgid="4831213580709167218" name="share_as_photo">"以相片形式分享"</string>
+    <string msgid="5108508790540832053" name="share_button_description">"分享"</string>
+    <string msgid="3558466186935359444" name="share_panorama">"分享全景相片"</string>
+    <string msgid="5144911209144798122" name="share_to">"分享："</string>
+    <string msgid="8542853913632649160" name="show_on_map">"在地圖上顯示"</string>
+    <string msgid="4522771065344332702" name="spaceIsLow_content" product="default">"您 SD 卡的空間即將用盡，請變更相片的品質設定，或是刪除部分相片或其他檔案。"</string>
+    <string msgid="1011831256978228993" name="startup_dialog_button_next">"下一頁"</string>
+    <string msgid="1448511001008888767" name="switch_photo_filmstrip">"幻燈片檢視"</string>
+    <string msgid="3519718196270593468" name="tap_to_focus">"輕觸即可對焦。"</string>
+    <string msgid="5248213506417024287" name="time">"時間"</string>
+    <string msgid="5294001144133261436" name="time_lapse_hours">"小時"</string>
+    <string msgid="2418594453248958440" name="time_lapse_interval_set">"完成"</string>
+    <string msgid="5325447383033224679" name="time_lapse_minutes">"分鐘"</string>
+    <string msgid="7319683099532506270" name="time_lapse_seconds">"秒"</string>
+    <string msgid="3267978566401228497" name="time_lapse_title">"延時攝影錄製"</string>
+    <string msgid="5445336705705350004" name="tiny_planet_rotate">"旋轉"</string>
+    <string msgid="2985522360577158474" name="tiny_planet_zoom">"縮放"</string>
+    <string msgid="8061744305671964703" name="title">"標題"</string>
+    <string msgid="8304675202998742618" name="torch_off_desc">"關閉電筒"</string>
+    <string msgid="3069836196559213365" name="torch_on_desc">"開啟電筒"</string>
+    <string msgid="4736803320203951827" name="trim_action">"剪輯"</string>
+    <string msgid="3363125545009254117" name="try_to_set_local_album_available_offline">"這個項目已儲存在本機上，並且可供離線使用。"</string>
+    <string msgid="5110048345890050107" name="undo">"復原"</string>
+    <string msgid="5210344300697638286" name="unit_mm">"毫米"</string>
+    <string msgid="564184550182858146" name="unknown">"不明"</string>
+    <string msgid="7845916149291383132" name="video_accessibility_peek">"已錄影"</string>
+    <string msgid="1723708322021743770" name="video_camera_label">"攝錄機"</string>
+    <string msgid="6895236811408921715" name="video_control_play">"播放影片"</string>
+    <string msgid="2151884014634284456" name="video_date_content_description">"%s 拍攝的影片"</string>
+    <string msgid="1562566029875081552" name="video_err">"無法播放影片。"</string>
+    <string msgid="9196836111505731836" name="video_reach_size_limit">"已達大小上限。"</string>
+    <string msgid="3374878415050991030" name="video_recording_started">"錄影已開始。"</string>
+    <string msgid="4658626532857624974" name="video_recording_stopped">"錄影已停止。"</string>
+    <string msgid="2707403607250082339" name="video_snapshot_hint">"輕觸即可在攝錄期間拍照。"</string>
+    <string msgid="4985768837891362075" name="view_button_description">"查看"</string>
+    <string msgid="765601745709933047" name="wait">"請稍候…"</string>
+    <string msgid="1600142743496129085" name="white_balance">"白平衡"</string>
+    <string msgid="7045750687833828758" name="width">"闊度"</string>
+</resources>

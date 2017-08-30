@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_p1.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_p1.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_box_checked.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_box_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_switch_camera_front_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_switch_camera_front_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_0_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_0_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_flash_auto_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_flash_auto_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_timer_off_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_timer_off_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_capture_pano_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_capture_pano_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_flash_off_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_flash_off_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_camera_blanket.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_camera_blanket.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_timer_10s_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_timer_10s_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_switch_camera_back_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_switch_camera_back_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_n2_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_n2_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_hdr_plus_on_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_hdr_plus_on_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_hdr_off_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_hdr_off_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_grid_on_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_grid_on_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_switch_camera_back_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_switch_camera_back_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_switch_camera_back_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_switch_camera_back_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_edit_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_edit_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_video_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_trash_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_trash_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_timer_3s_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_timer_3s_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_timer_off_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_timer_off_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_n1_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_n1_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_camera_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_camera_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_grid_on_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_grid_on_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_p1_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_p1_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_hdr_off_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_hdr_off_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_p2.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_p2.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_hdr_plus_off_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_hdr_plus_off_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_capture_refocus_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_capture_refocus_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_hdr_plus_off_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_hdr_plus_off_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_switch_camera_front_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_switch_camera_front_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_camera_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_camera_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_share_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_share_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_n1_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_n1_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_p2_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_p2_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_flash_off_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_flash_off_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_flash_auto_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_flash_auto_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_capture_video.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_capture_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_box_unchecked.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_box_unchecked.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_timer_3s_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_timer_3s_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_n1.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_n1.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_timer_3s_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_timer_3s_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_edit_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_edit_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_flash_on_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_flash_on_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_hdr_on_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_hdr_on_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_trash_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_trash_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_switch_camera_front_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_switch_camera_front_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_hdr_plus_on_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_hdr_plus_on_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_flash_auto_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_flash_auto_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_timer_off_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_timer_off_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_timer_auto_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_timer_auto_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_hdr_plus_off_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_hdr_plus_off_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_p2_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_p2_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_0_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_0_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_capture_pano.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_capture_pano.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_grid_off_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_grid_off_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_hdr_plus_on_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_hdr_plus_on_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_timer_10s_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_timer_10s_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_timer_auto_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_timer_auto_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_n2_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_n2_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_video_blanket.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video_blanket.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_flash_on_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_flash_on_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_0.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_0.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_flash_on_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_flash_on_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\btn_cling.9.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_cling.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_video_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_capture_camera_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_capture_camera_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_capture_camera_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_capture_camera_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\btn_cling_pressed.9.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_cling_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_flash_off_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_flash_off_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_p1_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_p1_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_share_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_share_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_capture_video_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_capture_video_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_hdr_on_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_hdr_on_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_hdr_on_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_hdr_on_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_timer_10s_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_timer_10s_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_grid_off_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_grid_off_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exposure_n2.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exposure_n2.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_timer_auto_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_timer_auto_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_capture_refocus.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_capture_refocus.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_grid_off_indicator.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_grid_off_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_grid_on_normal.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_grid_on_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_hdr_off_disabled.png",
+        "source": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_hdr_off_disabled.png"
+    }
+]

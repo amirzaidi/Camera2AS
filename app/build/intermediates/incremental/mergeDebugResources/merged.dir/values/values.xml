@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="camcorder_profile_names">
+        <item>@string/pref_video_quality_entry_low</item>
+        <item>@string/pref_video_quality_entry_high</item>
+        <item>@string/pref_video_quality_entry_qcif_notrans</item>
+        <item>@string/pref_video_quality_entry_cif_notrans</item>
+        <item>@string/pref_video_quality_entry_480p_notrans</item>
+        <item>@string/pref_video_quality_entry_720p_notrans</item>
+        <item>@string/pref_video_quality_entry_1080p_notrans</item>
+        <item>@string/pref_video_quality_entry_qvga_notrans</item>
+        <item>@string/pref_video_quality_entry_2160p_notrans</item>
+    </array>
+    <array name="camera_flash_descriptions" translatable="false">
+      <item>@string/flash_off_desc</item>
+      <item>@string/flash_auto_desc</item>
+      <item>@string/flash_on_desc</item>
+    </array>
+    <array name="camera_flashmode_icons" translatable="false">
+        <item>@drawable/ic_flash_off</item>
+        <item>@drawable/ic_flash_auto</item>
+        <item>@drawable/ic_flash_on</item>
+    </array>
+    <array name="camera_flashmode_indicator_icons" translatable="false">
+        <item>@drawable/ic_flash_off_indicator</item>
+        <item>@drawable/ic_flash_auto_indicator</item>
+        <item>@drawable/ic_flash_on_indicator</item>
+    </array>
+    <array name="camera_flashmode_largeicons" translatable="false">
+        <item>@drawable/ic_flash_off</item>
+        <item>@drawable/ic_flash_auto</item>
+        <item>@drawable/ic_flash_on</item>
+    </array>
+    <array name="camera_id_descriptions" translatable="false">
+      <item>@string/camera_id_back_desc</item>
+      <item>@string/camera_id_front_desc</item>
+    </array>
+    <array name="camera_id_entries" translatable="false">
+        <item>@string/pref_camera_id_entry_back</item>
+        <item>@string/pref_camera_id_entry_front</item>
+    </array>
+    <array name="camera_id_entryvalues" translatable="false">
+        <item>@string/pref_camera_id_entry_back_value</item>
+        <item>@string/pref_camera_id_entry_front_value</item>
+    </array>
+    <array name="camera_id_icons" translatable="false">
+        <item>@drawable/ic_switch_camera_back</item>
+        <item>@drawable/ic_switch_camera_front</item>
+    </array>
+    <array name="camera_id_labels" translatable="false">
+        <item>@string/pref_camera_id_label_back</item>
+        <item>@string/pref_camera_id_label_front</item>
+    </array>
+    <array name="camera_id_largeicons" translatable="false">
+        <item>@drawable/ic_switch_camera_back</item>
+        <item>@drawable/ic_switch_camera_front</item>
+    </array>
+    <string-array name="camera_mode_content_description">
+        <item>@string/mode_camera_desc</item>
+        <item>@string/mode_video_desc</item>
+        <item>@string/mode_refocus_desc</item>
+        <item>@string/mode_photosphere_desc</item>
+        <item>@string/mode_panorama_desc</item>
+        <item>""</item>
+        <item>""</item>
+    </string-array>
+    <array name="camera_mode_cover_icon">
+        <item>@drawable/ic_camera_blanket</item>
+        <item>@drawable/ic_video_blanket</item>
+        <item>@drawable/ic_refocus_blanket</item>
+        <item>@drawable/ic_photosphere_blanket</item>
+        <item>@drawable/ic_pano_blanket</item>
+        <item>@drawable/ic_camera_blanket</item>
+        <item>@drawable/ic_camera_blanket</item>
+    </array>
+    <array name="camera_mode_icon">
+        <item>@drawable/ic_camera_normal</item>
+        <item>@drawable/ic_video_normal</item>
+        <item>@drawable/ic_refocus_normal</item>
+        <item>@drawable/ic_photosphere_normal</item>
+        <item>@drawable/ic_panorama_normal</item>
+        <item>@drawable/ic_camera_normal</item>
+        <item>@drawable/ic_camera_normal</item>
+    </array>
+    <integer-array name="camera_mode_nested_in_nav_drawer">
+        <item>@integer/camera_mode_photo</item>
+        <item>@integer/camera_mode_video</item>
+        <item>@integer/camera_mode_refocus</item>
+        <item>@integer/camera_mode_photosphere</item>
+        <item>@integer/camera_mode_panorama</item>
+        <item>@integer/camera_mode_photo</item>
+    </integer-array>
+    <array name="camera_mode_shutter_icon">
+        <item>@drawable/ic_capture_camera</item>
+        <item>@drawable/ic_capture_video</item>
+        <item>@drawable/ic_capture_refocus</item>
+        <item>@null</item>
+        <item>@drawable/ic_capture_panorama</item>
+        <item>@drawable/ic_capture_camera</item>
+        <item>@drawable/ic_capture_camera</item>
+    </array>
+    <string-array name="camera_mode_text">
+        <item>@string/mode_camera</item>
+        <item>@string/mode_video</item>
+        <item>@string/mode_refocus</item>
+        <item>@string/mode_photosphere</item>
+        <item>@string/mode_panorama</item>
+        <item>""</item>
+        <item>""</item>
+    </string-array>
+    <array name="camera_mode_theme_color">
+        <item>@color/camera_mode_color</item>
+        <item>@color/video_mode_color</item>
+        <item>@color/refocus_mode_color</item>
+        <item>@color/photosphere_mode_color</item>
+        <item>@color/panorama_mode_color</item>
+        <item>@color/camera_mode_color</item>
+        <item>@color/camera_mode_color</item>
+    </array>
+    <integer-array name="camera_modes">
+        <item>@integer/camera_mode_photo</item>
+        <item>@integer/camera_mode_video</item>
+        <item>@integer/camera_mode_refocus</item>
+        <item>@integer/camera_mode_photosphere</item>
+        <item>@integer/camera_mode_panorama</item>
+        <item>@integer/camera_mode_gcam</item>
+        <item>@integer/camera_mode_capture_intent</item>
+    </integer-array>
+    <integer-array name="camera_modes_always_visible">
+        <item>@integer/camera_mode_photo</item>
+    </integer-array>
+    <integer-array name="camera_modes_in_nav_drawer_if_supported">
+        <item>@integer/camera_mode_photosphere</item>
+        <item>@integer/camera_mode_panorama</item>
+        <item>@integer/camera_mode_refocus</item>
+        <item>@integer/camera_mode_photo</item>
+        <item>@integer/camera_mode_video</item>
+    </integer-array>
+    <array name="countdown_duration_descriptions" translatable="false">
+        <item>@string/countdown_timer_off</item>
+        <item>@string/countdown_timer_duration_3s</item>
+        <item>@string/countdown_timer_duration_10s</item>
+    </array>
+    <array name="countdown_duration_icons" translatable="false">
+        <item>@drawable/ic_timer_off</item>
+        <item>@drawable/ic_timer_3s</item>
+        <item>@drawable/ic_timer_10s</item>
+    </array>
+    <array name="grid_lines_descriptions" translatable="false">
+      <item>@string/grid_lines_off_desc</item>
+      <item>@string/grid_lines_on_desc</item>
+    </array>
+    <array name="grid_lines_icons" translatable="false">
+      <item>@drawable/ic_grid_off</item>
+      <item>@drawable/ic_grid_on</item>
+    </array>
+    <array name="grid_lines_indicator_icons" translatable="false">
+      <item>@drawable/ic_grid_off_indicator</item>
+      <item>@drawable/ic_grid_on_indicator</item>
+    </array>
+    <array name="hdr_descriptions" translatable="false">
+      <item>@string/hdr_off_desc</item>
+      <item>@string/hdr_on_desc</item>
+    </array>
+    <array name="hdr_plus_descriptions" translatable="false">
+      <item>@string/hdr_plus_off_desc</item>
+      <item>@string/hdr_plus_on_desc</item>
+    </array>
+    <array name="hdr_plus_flash_descriptions" translatable="false">
+      <item>@string/hdr_plus_flash_off_desc</item>
+      <item>@string/hdr_plus_flash_auto_desc</item>
+      <item>@string/hdr_plus_flash_on_desc</item>
+    </array>
+    <array name="pref_camera_countdown_indicators" translatable="false">
+        <item>@drawable/ic_timer_off_indicator</item>
+        <item>@drawable/ic_timer_3s_indicator</item>
+        <item>@drawable/ic_timer_10s_indicator</item>
+    </array>
+    <string-array name="pref_camera_countdown_labels">
+        <item>@string/pref_camera_countdown_label_off</item>
+        <item>@string/pref_camera_countdown_label_one</item>
+        <item>@string/pref_camera_countdown_label_three</item>
+        <item>@string/pref_camera_countdown_label_ten</item>
+        <item>@string/pref_camera_countdown_label_fifteen</item>
+    </string-array>
+    <array name="pref_camera_exposure_icons" translatable="false">
+        <item>@drawable/ic_exposure_n3</item>
+        <item>@drawable/ic_exposure_n2</item>
+        <item>@drawable/ic_exposure_n1</item>
+        <item>@drawable/ic_exposure_0</item>
+        <item>@drawable/ic_exposure_p1</item>
+        <item>@drawable/ic_exposure_p2</item>
+        <item>@drawable/ic_exposure_p3</item>
+    </array>
+    <string-array name="pref_camera_flashmode_entries" translatable="false">
+        <item>@string/pref_camera_flashmode_entry_off</item>
+        <item>@string/pref_camera_flashmode_entry_auto</item>
+        <item>@string/pref_camera_flashmode_entry_on</item>
+    </string-array>
+    <string-array name="pref_camera_flashmode_entryvalues" translatable="false">
+        <item>off</item>
+        <item>auto</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pref_camera_flashmode_labels" translatable="false">
+        <item>@string/pref_camera_flashmode_label_off</item>
+        <item>@string/pref_camera_flashmode_label_auto</item>
+        <item>@string/pref_camera_flashmode_label_on</item>
+    </string-array>
+    <string-array name="pref_camera_focusmode_default_array" translatable="false">
+        <item>continuous-picture</item>
+        <item>auto</item>
+    </string-array>
+    <string-array name="pref_camera_focusmode_entries" translatable="false">
+        <item>@string/pref_camera_focusmode_entry_auto</item>
+        <item>@string/pref_camera_focusmode_entry_infinity</item>
+        <item>@string/pref_camera_focusmode_entry_macro</item>
+    </string-array>
+    <string-array name="pref_camera_focusmode_entryvalues" translatable="false">
+        <item>auto</item>
+        <item>infinity</item>
+        <item>macro</item>
+    </string-array>
+    <string-array name="pref_camera_focusmode_labels" translatable="false">
+        <item>@string/pref_camera_focusmode_label_auto</item>
+        <item>@string/pref_camera_focusmode_label_infinity</item>
+        <item>@string/pref_camera_focusmode_label_macro</item>
+    </string-array>
+    <string-array name="pref_camera_gridlines_entryvalues">
+      <item>@string/setting_off_value</item>
+      <item>@string/setting_on_value</item>
+    </string-array>
+    <string-array name="pref_camera_hdr_entries" translatable="false">
+        <item>@string/setting_off</item>
+        <item>@string/setting_on</item>
+    </string-array>
+    <string-array name="pref_camera_hdr_entryvalues" translatable="false">
+        <item>@string/setting_off_value</item>
+        <item>@string/setting_on_value</item>
+    </string-array>
+    <array name="pref_camera_hdr_icons" translatable="false">
+        <item>@drawable/ic_hdr_off</item>
+        <item>@drawable/ic_hdr_on</item>
+    </array>
+    <array name="pref_camera_hdr_indicator_icons" translatable="false">
+        <item>@drawable/ic_hdr_off_indicator</item>
+        <item>@drawable/ic_hdr_on_indicator</item>
+    </array>
+    <string-array name="pref_camera_hdr_labels" translatable="false">
+        <item>@string/pref_camera_scenemode_entry_turn_hdr_on</item>
+        <item>@string/pref_camera_scenemode_entry_turn_hdr_off</item>
+    </string-array>
+    <string-array name="pref_camera_hdr_plus_entries" translatable="false">
+        <item>@string/setting_off</item>
+        <item>@string/setting_on</item>
+    </string-array>
+    <string-array name="pref_camera_hdr_plus_entryvalues" translatable="false">
+        <item>@string/setting_off_value</item>
+        <item>@string/setting_on_value</item>
+    </string-array>
+    <string-array name="pref_camera_hdr_plus_flashmode_entryvalues" translatable="false">
+        <item>off</item>
+        <item>auto</item>
+        <item>on</item>
+    </string-array>
+    <array name="pref_camera_hdr_plus_icons" translatable="false">
+        <item>@drawable/ic_hdr_plus_off</item>
+        <item>@drawable/ic_hdr_plus_on</item>
+    </array>
+    <array name="pref_camera_hdr_plus_indicator_icons" translatable="false">
+        <item>@drawable/ic_hdr_plus_off_indicator</item>
+        <item>@drawable/ic_hdr_plus_on_indicator</item>
+    </array>
+    <string-array name="pref_camera_hdr_plus_labels" translatable="false">
+        <item>@string/pref_camera_scenemode_entry_turn_hdr_plus_on</item>
+        <item>@string/pref_camera_scenemode_entry_turn_hdr_plus_off</item>
+    </string-array>
+    <string-array name="pref_camera_hdr_supportmode_entryvalues" translatable="false">
+        <item>@string/pref_camera_hdr_supportmode_none</item>
+        <item>@string/pref_camera_hdr_supportmode_hdr</item>
+        <item>@string/pref_camera_hdr_supportmode_hdr_plus</item>
+    </string-array>
+    <string-array name="pref_camera_jpeg_quality_entryvalues">
+      <item>@string/pref_camera_jpeg_quality_normal</item>
+      <item>@string/pref_camera_jpeg_quality_fine</item>
+      <item>@string/pref_camera_jpeg_quality_superfine</item>
+    </string-array>
+    <string-array name="pref_camera_pano_orientation_entryvalues">
+      <item>@string/pano_orientation_horizontal</item>
+      <item>@string/pano_orientation_vertical</item>
+      <item>@string/pano_orientation_wide</item>
+      <item>@string/pano_orientation_fisheye</item>
+    </string-array>
+    <string-array name="pref_camera_picturesize_entries" translatable="false">
+        <item>@string/pref_camera_picturesize_entry_large</item>
+        <item>@string/pref_camera_picturesize_entry_medium</item>
+        <item>@string/pref_camera_picturesize_entry_small</item>
+    </string-array>
+    <string-array name="pref_camera_picturesize_entryvalues" translatable="false">
+        <item>@string/pref_camera_picturesize_default</item>
+        <item>medium</item>
+        <item>small</item>
+    </string-array>
+    <string-array name="pref_camera_scenemode_entryvalues" translatable="false">
+        <item>auto</item>
+        <item>hdr</item>
+    </string-array>
+    <string-array name="pref_camera_timer_sound_entries" translatable="false">
+        <item>@string/setting_off</item>
+        <item>@string/setting_on</item>
+    </string-array>
+    <string-array name="pref_camera_timer_sound_entryvalues" translatable="false">
+        <item>@string/setting_off_value</item>
+        <item>@string/setting_on_value</item>
+    </string-array>
+    <string-array name="pref_camera_video_flashmode_entries" translatable="false">
+        <item>@string/pref_camera_flashmode_entry_on</item>
+        <item>@string/pref_camera_flashmode_entry_off</item>
+    </string-array>
+    <string-array name="pref_camera_video_flashmode_entryvalues" translatable="false">
+        <item>torch</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_camera_video_flashmode_labels" translatable="false">
+        <item>@string/pref_camera_flashmode_label_on</item>
+        <item>@string/pref_camera_flashmode_label_off</item>
+    </string-array>
+    <integer-array name="pref_countdown_duration" translatable="false">
+        <item>0</item>
+        <item>3</item>
+        <item>10</item>
+    </integer-array>
+    <array name="pref_default_boolean_entryvalues">
+        <item>@string/pref_boolean_false</item>
+        <item>@string/pref_boolean_true</item>
+    </array>
+    <string-array name="pref_video_effect_entries" translatable="false">
+        <item>@string/effect_none</item>
+        <item>@string/effect_goofy_face_squeeze</item>
+        <item>@string/effect_goofy_face_big_eyes</item>
+        <item>@string/effect_goofy_face_big_mouth</item>
+        <item>@string/effect_goofy_face_small_mouth</item>
+        <item>@string/effect_goofy_face_big_nose</item>
+        <item>@string/effect_goofy_face_small_eyes</item>
+        <item>@string/effect_backdropper_space</item>
+        <item>@string/effect_backdropper_sunset</item>
+        <item>@string/effect_backdropper_gallery</item>
+    </string-array>
+    <string-array name="pref_video_effect_entryvalues" translatable="false">
+        <item>@string/pref_video_effect_default</item>
+        <item>goofy_face/squeeze</item>
+        <item>goofy_face/big_eyes</item>
+        <item>goofy_face/big_mouth</item>
+        <item>goofy_face/small_mouth</item>
+        <item>goofy_face/big_nose</item>
+        <item>goofy_face/small_eyes</item>
+        <item>backdropper/file:///system/media/video/AndroidInSpace.480p.mp4</item>
+        <item>backdropper/file:///system/media/video/Sunset.480p.mp4</item>
+        <item>backdropper/gallery</item>
+    </string-array>
+    <string-array name="pref_video_quality_entries" translatable="false">
+        <item>@string/pref_camera_picturesize_entry_large</item>
+        <item>@string/pref_camera_picturesize_entry_medium</item>
+        <item>@string/pref_camera_picturesize_entry_small</item>
+   </string-array>
+    <string-array name="pref_video_quality_entryvalues" translatable="false">
+        <item>@string/pref_video_quality_large</item>
+        <item>@string/pref_video_quality_medium</item>
+        <item>@string/pref_video_quality_small</item>
+    </string-array>
+    <array name="settings_toggle_descriptions" translatable="false">
+      <item>@string/settings_open_desc</item>
+      <item>@string/settings_close_desc</item>
+    </array>
+    <array name="settings_toggle_icons" translatable="false">
+      <item>@drawable/ic_options_active</item>
+      <item>@drawable/ic_options</item>
+    </array>
+    <array name="shutter_button_backgrounds" translatable="false">
+        <item>@drawable/shutter_button_background_still</item>
+        <item>@drawable/shutter_button_background_video</item>
+        <item>@drawable/shutter_button_background_refocus</item>
+        <item>@drawable/shutter_button_background_still</item>
+        <item>@drawable/shutter_button_background_still</item>
+        <item>@drawable/shutter_button_background_still</item>
+        <item>@drawable/shutter_button_background_still</item>
+    </array>
+    <array name="video_effect_icons" translatable="false">
+        <item>@drawable/ic_effects_holo_light</item>
+        <item>@drawable/ic_video_effects_faces_squeeze_holo_dark</item>
+        <item>@drawable/ic_video_effects_faces_big_eyes_holo_dark</item>
+        <item>@drawable/ic_video_effects_faces_big_mouth_holo_dark</item>
+        <item>@drawable/ic_video_effects_faces_small_mouth_holo_dark</item>
+        <item>@drawable/ic_video_effects_faces_big_nose_holo_dark</item>
+        <item>@drawable/ic_video_effects_faces_small_eyes_holo_dark</item>
+        <item>@drawable/ic_video_effects_background_intergalactic_holo</item>
+        <item>@drawable/ic_video_effects_background_fields_of_wheat_holo</item>
+        <item>@drawable/ic_video_effects_background_normal_holo_dark</item>
+    </array>
+    <array name="video_flash_descriptions" translatable="false">
+      <item>@string/torch_on_desc</item>
+      <item>@string/torch_off_desc</item>
+    </array>
+    <array name="video_flashmode_icons" translatable="false">
+        <item>@drawable/ic_flash_on</item>
+        <item>@drawable/ic_flash_off</item>
+    </array>
+    <array name="video_flashmode_indicator_icons" translatable="false">
+        <item>@drawable/ic_flash_on_indicator</item>
+        <item>@drawable/ic_flash_off_indicator</item>
+    </array>
+    <array name="video_flashmode_largeicons" translatable="false">
+        <item>@drawable/ic_flash_on</item>
+        <item>@drawable/ic_flash_off</item>
+    </array>
+    <bool name="show_action_bar_title">false</bool>
+    <color name="blue_button_text_color">#00838F</color>
+    <color name="bottombar_pressed">#262626</color>
+    <color name="bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="bright_foreground_holo_dark">#fff3f3f3</color>
+    <color name="camera_gray_background">#1b1b1b</color>
+    <color name="camera_mode_color">#4285f4</color>
+    <color name="crop_shadow_color">#CF000000</color>
+    <color name="crop_shadow_wp_color">#4F000000</color>
+    <color name="crop_wp_markers">#7FFFFFFF</color>
+    <color name="dialog_button_color">#FF76A7F9</color>
+    <color name="dialog_text_color">@android:color/black</color>
+    <color name="face_detect_start">#ffffff00</color>
+    <color name="focus_color">#ffffffff</color>
+    <color name="focus_debug">#90ffffff</color>
+    <color name="focus_debug_fail">#90ff0000</color>
+    <color name="focus_debug_success">#9000ff00</color>
+    <color name="focus_debug_text">#b0ffffff</color>
+    <color name="focus_outer_ring_color">#4CFFFFFF</color>
+    <color name="fullscreen_dialog_background_color">@color/main_color_global</color>
+    <color name="gray">#FFAAAAAA</color>
+    <color name="grid_line">#33FFFFFF</color>
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <color name="icon_disabled_color">#DD777777</color>
+    <color name="indicator_background">#40000000</color>
+    <color name="indicators_background_color">#4c000000</color>
+    <color name="main_color_global">#00acc1</color>
+    <color name="mode_icon_hover_highlight">#2DFFFFFF</color>
+    <color name="mode_list_background">#00000000</color>
+    <color name="mode_list_settings_icon_background">#26000000</color>
+    <color name="mode_list_settings_icon_pressed_background">#99000000</color>
+    <color name="mode_options_background">#4C000000</color>
+    <color name="mode_selection_border">#33B5E5</color>
+    <color name="mode_selector_background_dark">#e7e7e7</color>
+    <color name="mode_selector_background_light">#f5f5f5</color>
+    <color name="mode_selector_icon_background">#4c000000</color>
+    <color name="mode_selector_text_color">#fff</color>
+    <color name="mode_selector_text_highlight_color">#ffffffff</color>
+    <color name="on_viewfinder_label_background_color">#77333333</color>
+    <color name="pano_progress_done">#FF33525E</color>
+    <color name="pano_progress_empty">#FF2E2E2E</color>
+    <color name="pano_progress_indication">#FF0099CC</color>
+    <color name="pano_progress_indication_fast">#FFFF2222</color>
+    <color name="panorama_mode_color">#ff9e00</color>
+    <color name="photo_placeholder">#333</color>
+    <color name="photosphere_mode_color">#ab47bc</color>
+    <color name="popup_background">#ff282828</color>
+    <color name="popup_title_color">#ff33b5e5</color>
+    <color name="recording_time_elapsed_text">#FFFFFFFF</color>
+    <color name="recording_time_remaining_text">#FFFF0033</color>
+    <color name="refocus_mode_color">#0f9d58</color>
+    <color name="review_background">#FF000000</color>
+    <color name="review_control_pressed_color">#FF33B5E5</color>
+    <color name="review_control_pressed_fan_color">#3F33B5E5</color>
+    <color name="settings_cling_color">#2962FF</color>
+    <color name="time_lapse_arc">#FFC5C5C5</color>
+    <color name="video_mode_color">#db4437</color>
+    <declare-styleable name="CameraPreference"><attr format="string" name="title"/></declare-styleable>
+    <declare-styleable name="IconIndicator"><attr format="reference" name="icons"/><attr format="reference" name="modes"/></declare-styleable>
+    <declare-styleable name="IconListPreference"><attr format="reference" name="singleIcon"/><attr name="icons"/><attr format="reference" name="largeIcons"/><attr format="reference" name="images"/></declare-styleable>
+    <declare-styleable name="ListPreference"><attr format="string" name="key"/><attr format="string|reference" name="defaultValue"/><attr format="reference" name="entryValues"/><attr format="reference" name="entries"/><attr format="reference" name="labelList"/></declare-styleable>
+    <declare-styleable name="MultiToggleImageButton"><attr format="reference" name="imageIds"/><attr format="reference" name="contentDescriptionIds"/></declare-styleable>
+    <declare-styleable name="RadioOptions"><attr format="reference" name="selected_drawable"/></declare-styleable>
+    <declare-styleable name="Theme.GalleryBase"><attr format="dimension" name="listPreferredItemHeightSmall"/><attr format="reference" name="switchStyle"/></declare-styleable>
+    <dimen name="action_item_height">175dip</dimen>
+    <dimen name="album_set_item_image_height">120dp</dimen>
+    <dimen name="album_set_item_width">140dp</dimen>
+    <dimen name="album_slot_gap">5dp</dimen>
+    <dimen name="albumset_count_font_size">9sp</dimen>
+    <dimen name="albumset_count_offset">10dp</dimen>
+    <dimen name="albumset_icon_size">25dp</dimen>
+    <dimen name="albumset_label_background_height">30dp</dimen>
+    <dimen name="albumset_left_margin">2dp</dimen>
+    <dimen name="albumset_padding_bottom">7dp</dimen>
+    <dimen name="albumset_padding_top">7dp</dimen>
+    <dimen name="albumset_slot_gap">7dp</dimen>
+    <dimen name="albumset_title_font_size">12sp</dimen>
+    <dimen name="albumset_title_offset">10dp</dimen>
+    <dimen name="albumset_title_right_margin">20dp</dimen>
+    <dimen name="appwidget_height">180dp</dimen>
+    <dimen name="appwidget_width">180dp</dimen>
+    <dimen name="big_setting_popup_window_width">320dp</dimen>
+    <dimen name="big_setting_popup_window_width_xlarge">590dp</dimen>
+    <dimen name="bottom_bar_button_spacing">48dp</dimen>
+    <dimen name="bottom_bar_height_max">120dp</dimen>
+    <dimen name="bottom_bar_height_min">84dp</dimen>
+    <dimen name="bottom_bar_height_optimal">96dp</dimen>
+    <dimen name="cache_pin_margin">8dp</dimen>
+    <dimen name="cache_pin_size">24dp</dimen>
+    <dimen name="camera_controls_padding_end">36dp</dimen>
+    <dimen name="camera_controls_padding_start">36dp</dimen>
+    <dimen name="camera_controls_size">0dip</dimen>
+    <dimen name="camera_film_strip_gap">32dip</dimen>
+    <dimen name="capture_border">8dip</dimen>
+    <dimen name="capture_margin_right">16dip</dimen>
+    <dimen name="capture_margin_top">16dip</dimen>
+    <dimen name="capture_size">48dip</dimen>
+    <dimen name="crop_min_side">45dp</dimen>
+    <dimen name="crop_touch_tolerance">20dp</dimen>
+    <dimen name="default_cling_width">120dp</dimen>
+    <dimen name="effect_setting_clear_text_min_height">45dp</dimen>
+    <dimen name="effect_setting_clear_text_min_height_xlarge">44dp</dimen>
+    <dimen name="effect_setting_clear_text_size">20dp</dimen>
+    <dimen name="effect_setting_clear_text_size_xlarge">23dp</dimen>
+    <dimen name="effect_setting_item_icon_width">40dp</dimen>
+    <dimen name="effect_setting_item_icon_width_xlarge">54dp</dimen>
+    <dimen name="effect_setting_item_text_size">12sp</dimen>
+    <dimen name="effect_setting_item_text_size_xlarge">21dp</dimen>
+    <dimen name="effect_setting_type_text_left_padding">16dp</dimen>
+    <dimen name="effect_setting_type_text_left_padding_xlarge">26dp</dimen>
+    <dimen name="effect_setting_type_text_min_height">36dp</dimen>
+    <dimen name="effect_setting_type_text_min_height_xlarge">34dp</dimen>
+    <dimen name="effect_setting_type_text_size">12sp</dimen>
+    <dimen name="effect_setting_type_text_size_xlarge">21dp</dimen>
+    <dimen name="face_circle_stroke">1dip</dimen>
+    <dimen name="filmstrip_bottom_control_button_size">48dp</dimen>
+    <dimen name="filmstrip_bottom_control_layout_size">240dp</dimen>
+    <dimen name="filmstrip_bottom_control_middle_two_buttons_layout_size">144dp</dimen>
+    <dimen name="filmstrip_bottom_control_spacing">16dp</dimen>
+    <dimen name="flash_circle_size_after_shrink">36dp</dimen>
+    <dimen name="focus_circle_initial_size">48dp</dimen>
+    <dimen name="focus_circle_max_size">96dp</dimen>
+    <dimen name="focus_circle_min_size">24dp</dimen>
+    <dimen name="focus_circle_stroke">1.25dp</dimen>
+    <dimen name="focus_debug_stroke">1dip</dimen>
+    <dimen name="focus_inner_offset">24dp</dimen>
+    <dimen name="focus_inner_ring_size">38dp</dimen>
+    <dimen name="focus_inner_stroke">2dp</dimen>
+    <dimen name="focus_outer_ring_size">104dp</dimen>
+    <dimen name="focus_outer_stroke">3dp</dimen>
+    <dimen name="focus_radius_offset">8dp</dimen>
+    <dimen name="grid_line_width">1dp</dimen>
+    <dimen name="indicator_bar_width">48dp</dimen>
+    <dimen name="indicator_bar_width_large">72dp</dimen>
+    <dimen name="indicator_bar_width_xlarge">13dp</dimen>
+    <dimen name="indicator_icon_height">24dp</dimen>
+    <dimen name="indicator_icon_width">24dp</dimen>
+    <dimen name="indicator_overlay_padding">20dp</dimen>
+    <dimen name="manage_cache_bottom_height">48dp</dimen>
+    <dimen name="mode_list_settings_icon_margin">12dp</dimen>
+    <dimen name="mode_list_settings_icon_size">48dp</dimen>
+    <dimen name="mode_option_height">48dp</dimen>
+    <dimen name="mode_option_width">48dp</dimen>
+    <dimen name="mode_options_buttons_anim_delta_x">20dp</dimen>
+    <dimen name="mode_options_height">72dp</dimen>
+    <dimen name="mode_options_toggle_padding">12dp</dimen>
+    <dimen name="mode_selector_icon_block_width">56dp</dimen>
+    <dimen name="mode_selector_icon_drawable_size">48dp</dimen>
+    <dimen name="mode_selector_item_height">60dp</dimen>
+    <dimen name="mode_selector_text_size">16sp</dimen>
+    <dimen name="mode_transition_view_icon_size">64dp</dimen>
+    <dimen name="navigation_bar_height">48dip</dimen>
+    <dimen name="navigation_bar_width">42dip</dimen>
+    <dimen name="onscreen_exposure_indicator_text_size">15dp</dimen>
+    <dimen name="onscreen_exposure_indicator_text_size_xlarge">18dp</dimen>
+    <dimen name="onscreen_indicators_height">28dp</dimen>
+    <dimen name="onscreen_indicators_height_large">36dp</dimen>
+    <dimen name="onscreen_indicators_height_xlarge">36dp</dimen>
+    <dimen name="option_button_circle_size">48dp</dimen>
+    <dimen name="pano_mosaic_surface_height">240dp</dimen>
+    <dimen name="pano_mosaic_surface_height_xlarge">480dp</dimen>
+    <dimen name="pano_review_button_height">45dp</dimen>
+    <dimen name="pano_review_button_height_xlarge">115dp</dimen>
+    <dimen name="pano_review_button_width">70dp</dimen>
+    <dimen name="pano_review_button_width_xlarge">180dp</dimen>
+    <dimen name="photoeditor_original_text_margin">4dp</dimen>
+    <dimen name="photoeditor_original_text_size">18dp</dimen>
+    <dimen name="photoeditor_text_padding">10dp</dimen>
+    <dimen name="photoeditor_text_size">12dp</dimen>
+    <dimen name="pie_anglezone_width">92dp</dimen>
+    <dimen name="pie_arc_offset">48dp</dimen>
+    <dimen name="pie_arc_radius">214dp</dimen>
+    <dimen name="pie_deadzone_width">36dp</dimen>
+    <dimen name="pie_item_radius">370dp</dimen>
+    <dimen name="pie_progress_radius">25dp</dimen>
+    <dimen name="pie_progress_width">3dp</dimen>
+    <dimen name="pie_radius_increment">48dp</dimen>
+    <dimen name="pie_radius_start">80dp</dimen>
+    <dimen name="pie_touch_offset">32dp</dimen>
+    <dimen name="pie_touch_slop">12dp</dimen>
+    <dimen name="pie_view_size">48dp</dimen>
+    <dimen name="popup_title_frame_min_height">49dp</dimen>
+    <dimen name="popup_title_frame_min_height_xlarge">60dp</dimen>
+    <dimen name="popup_title_text_size">22dp</dimen>
+    <dimen name="popup_title_text_size_xlarge">22dp</dimen>
+    <dimen name="preview_margin">2dp</dimen>
+    <dimen name="rounded_thumbnail_diameter_max">54dp</dimen>
+    <dimen name="rounded_thumbnail_diameter_min">24dp</dimen>
+    <dimen name="rounded_thumbnail_diameter_normal">48dp</dimen>
+    <dimen name="rounded_thumbnail_padding">12dp</dimen>
+    <dimen name="rounded_thumbnail_ripple_ring_diameter_max">70dp</dimen>
+    <dimen name="rounded_thumbnail_ripple_ring_diameter_min">40dp</dimen>
+    <dimen name="rounded_thumbnail_ripple_ring_thick_max">5dp</dimen>
+    <dimen name="rounded_thumbnail_ripple_ring_thick_min">1dp</dimen>
+    <dimen name="setting_item_icon_width">28dp</dimen>
+    <dimen name="setting_item_icon_width_large">48dp</dimen>
+    <dimen name="setting_item_icon_width_xlarge">35dp</dimen>
+    <dimen name="setting_item_list_margin">14dp</dimen>
+    <dimen name="setting_item_list_margin_xlarge">24dp</dimen>
+    <dimen name="setting_item_text_size">18sp</dimen>
+    <dimen name="setting_item_text_size_xlarge">21dp</dimen>
+    <dimen name="setting_item_text_width">95dp</dimen>
+    <dimen name="setting_item_text_width_xlarge">130dp</dimen>
+    <dimen name="setting_knob_text_size">20dp</dimen>
+    <dimen name="setting_knob_width">20dp</dimen>
+    <dimen name="setting_knob_width_xlarge">50dp</dimen>
+    <dimen name="setting_popup_right_margin">5dp</dimen>
+    <dimen name="setting_popup_right_margin_large">8dp</dimen>
+    <dimen name="setting_popup_window_width">240dp</dimen>
+    <dimen name="setting_popup_window_width_large">260dp</dimen>
+    <dimen name="setting_popup_window_width_xlarge">410dp</dimen>
+    <dimen name="setting_row_height">50dp</dimen>
+    <dimen name="setting_row_height_large">54dp</dimen>
+    <dimen name="setting_row_height_xlarge">50dp</dimen>
+    <dimen name="settings_cling_triangle_height">15dp</dimen>
+    <dimen name="settings_cling_triangle_width">20dp</dimen>
+    <dimen name="settings_cling_width">160dp</dimen>
+    <dimen name="shadow_margin">5dp</dimen>
+    <dimen name="shutter_offset">-22dp</dimen>
+    <dimen name="size_preview">400dip</dimen>
+    <dimen name="size_thumbnail">200dip</dimen>
+    <dimen name="stack_photo_height">120dp</dimen>
+    <dimen name="stack_photo_width">160dp</dimen>
+    <dimen name="switch_min_width">96dp</dimen>
+    <dimen name="switch_padding">16dp</dimen>
+    <dimen name="switch_text_max_width">44dp</dimen>
+    <dimen name="switcher_size">72dp</dimen>
+    <dimen name="thumb_text_padding">12dp</dimen>
+    <dimen name="thumb_text_size">14sp</dimen>
+    <dimen name="thumbnail_margin">3dip</dimen>
+    <dimen name="thumbnail_size">96dip</dimen>
+    <dimen name="video_capture_circle_diameter">64dp</dimen>
+    <dimen name="wp_selector_dash_length">4dp</dimen>
+    <dimen name="wp_selector_off_length">4dp</dimen>
+    <dimen name="zoom_stroke">3dp</dimen>
+    <item name="action_select_all" type="id"/>
+    <item name="action_toggle_full_caching" type="id"/>
+    <item name="mediadata_tag_target" type="id"/>
+    <item name="mediadata_tag_viewtype" type="id"/>
+    <item name="viewpager" type="id"/>
+    <integer name="album_rows_land">2</integer>
+    <integer name="album_rows_port">4</integer>
+    <integer name="albumset_rows_land">2</integer>
+    <integer name="albumset_rows_port">3</integer>
+    <integer name="bottom_bar_background_alpha">255</integer>
+    <integer name="bottom_bar_background_alpha_overlay">153</integer>
+    <integer name="camera_mode_capture_intent">6</integer>
+    <integer name="camera_mode_gcam">5</integer>
+    <integer name="camera_mode_panorama">4</integer>
+    <integer name="camera_mode_photo">0</integer>
+    <integer name="camera_mode_photosphere">3</integer>
+    <integer name="camera_mode_refocus">2</integer>
+    <integer name="camera_mode_video">1</integer>
+    <integer name="max_video_recording_length">0</integer>
+    <string name="access_sd_fail" product="default">Couldn\'t access SD card.</string>
+    <string name="accessibility_cancel_button">Cancel</string>
+    <string name="accessibility_check_box">%1$s check box</string>
+    <string name="accessibility_filmstrip_toggle">Toggle filmstrip</string>
+    <string name="accessibility_menu_button">Menu button</string>
+    <string name="accessibility_mode_list_hidden">Mode list closed</string>
+    <string name="accessibility_mode_list_shown">Mode list open</string>
+    <string name="accessibility_mode_list_toggle">Toggle mode list</string>
+    <string name="accessibility_mode_options">Options</string>
+    <string name="accessibility_mode_zoom_minus">Zoom out</string>
+    <string name="accessibility_mode_zoom_plus">Zoom in</string>
+    <string name="accessibility_review_cancel">Review cancel</string>
+    <string name="accessibility_review_ok">Review done</string>
+    <string name="accessibility_review_retake">Review retake</string>
+    <string name="accessibility_shutter_button">Shutter</string>
+    <string name="accessibility_switch_to_camera">Switch to photo</string>
+    <string name="accessibility_switch_to_gcam">Switch to high quality</string>
+    <string name="accessibility_switch_to_panorama">Switch to panorama</string>
+    <string name="accessibility_switch_to_photo_sphere">Switch to Photo Sphere</string>
+    <string name="accessibility_switch_to_refocus">Switch to Refocus</string>
+    <string name="accessibility_switch_to_video">Switch to video</string>
+    <string name="accessibility_unlock_to_camera">Unlock to Camera</string>
+    <string name="accessibility_zoom_announcement">Zoom value is %.1f</string>
+    <string name="aperture">Aperture</string>
+    <string name="app_name">Camera</string>
+    <string name="auto">Auto</string>
+    <string name="btn_filmstrip_toggle">Filmstrip</string>
+    <string name="btn_mode_list_toggle">Mode list</string>
+    <string name="btn_zoom_minus">Z-</string>
+    <string name="btn_zoom_plus">Z+</string>
+    <string name="button_change_announcement">Button is now %s</string>
+    <string name="camera_error_title">Camera error</string>
+    <string name="camera_id_back_desc">Back camera</string>
+    <string name="camera_id_front_desc">Front camera</string>
+    <string name="camera_menu_more_label">MORE OPTIONS</string>
+    <string name="camera_menu_settings_label">SETTINGS</string>
+    <string name="cancel_button_description">Cancel</string>
+    <string name="cannot_load_image">Cannot load the image!</string>
+    <string name="capital_off">OFF</string>
+    <string name="capital_on">ON</string>
+    <string name="capturing">Capturing</string>
+    <string name="clear_effects">Clear effects</string>
+    <string name="cling_text_for_refocus_editor_button">To refocus, touch here</string>
+    <string name="close">Close</string>
+    <string name="confirm_button_text">OK, GOT IT</string>
+    <string name="count_down_title_text">Counting down to take a photo</string>
+    <string name="countdown_timer_duration_10s">Countdown timer duration is set to 10 seconds</string>
+    <string name="countdown_timer_duration_3s">Countdown timer duration is set to 3 seconds</string>
+    <string name="countdown_timer_off">Countdown timer is off</string>
+    <string name="create_tiny_planet">Create Tiny Planet</string>
+    <string name="crop_action">Crop</string>
+    <string name="crop_save">Save</string>
+    <string name="cropped_sensor_16x9_aspect_ratio">Cropped sensor \n(16:9)</string>
+    <string name="delete">Delete</string>
+    <string name="delete_button_description">Delete</string>
+    <string name="deleted">Deleted</string>
+    <string name="description">Description</string>
+    <string name="details">Details</string>
+    <string name="details_hms">%1$d:%2$02d:%3$02d</string>
+    <string name="details_ms">%1$02d:%2$02d</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_dismiss">Dismiss</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_report">Report</string>
+    <string name="done_button_description">Done</string>
+    <string name="duration">Duration</string>
+    <string name="edit">Edit</string>
+    <string name="edit_button_description">Edit</string>
+    <string name="edit_with">Edit with</string>
+    <string name="effect_backdropper_gallery">Your video</string>
+    <string name="effect_backdropper_space">In space</string>
+    <string name="effect_backdropper_sunset">Sunset</string>
+    <string name="effect_background">BACKGROUND</string>
+    <string name="effect_goofy_face_big_eyes">Big eyes</string>
+    <string name="effect_goofy_face_big_mouth">Big mouth</string>
+    <string name="effect_goofy_face_big_nose">Big nose</string>
+    <string name="effect_goofy_face_small_eyes">Small eyes</string>
+    <string name="effect_goofy_face_small_mouth">Small mouth</string>
+    <string name="effect_goofy_face_squeeze">Squeeze</string>
+    <string name="effect_none">None</string>
+    <string name="effect_silly_faces">SILLY FACES</string>
+    <string name="error_camera_disabled">Camera has been disabled because of security policies.</string>
+    <string name="error_cannot_connect_camera">Can\'t connect to the camera.</string>
+    <string name="error_media_storage_failure">There was a problem saving your photo or video.</string>
+    <string name="error_permissions">The app does not have critical permissions needed to run. Please check your permissions settings.</string>
+    <string name="exposure_compensation_desc_0">Exposure Compensation 0</string>
+    <string name="exposure_compensation_desc_n1">Exposure Compensation -1</string>
+    <string name="exposure_compensation_desc_n2">Exposure Compensation -2</string>
+    <string name="exposure_compensation_desc_p1">Exposure Compensation +1</string>
+    <string name="exposure_compensation_desc_p2">Exposure Compensation +2</string>
+    <string name="exposure_time">Exposure time</string>
+    <string name="feedback_description_camera_access">The app couldn\'t connect to the camera</string>
+    <string name="feedback_description_save_photo">Photo or video did not save to the device.</string>
+    <string name="file_size">File size</string>
+    <string name="flash">Flash</string>
+    <string name="flash_auto_desc">Flash auto</string>
+    <string name="flash_off">No flash</string>
+    <string name="flash_off_desc">Flash off</string>
+    <string name="flash_on">Flash fired</string>
+    <string name="flash_on_desc">Flash on</string>
+    <string name="focal_length">Focal Length</string>
+    <string name="focus_ring_toggle" translatable="false">FR</string>
+    <string name="full_sensor_4x3_aspect_ratio">Full sensor \n(4:3)</string>
+    <string name="grid_lines_off_desc">Grid lines off</string>
+    <string name="grid_lines_on_desc">Grid lines on</string>
+    <string name="hdr_off_desc">HDR off</string>
+    <string name="hdr_on_desc">HDR on</string>
+    <string name="hdr_plus_flash_auto_desc">HDR+ flash auto</string>
+    <string name="hdr_plus_flash_off_desc">HDR+ flash off</string>
+    <string name="hdr_plus_flash_on_desc">HDR+ flash on</string>
+    <string name="hdr_plus_off_desc">HDR Plus off</string>
+    <string name="hdr_plus_on_desc">HDR Plus on</string>
+    <string name="height">Height</string>
+    <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
+    <string name="immediate_capture_toggle" translatable="false">IMM</string>
+    <string name="iso">ISO</string>
+    <string name="location">Location</string>
+    <string name="maker">Maker</string>
+    <string name="manual">Manual</string>
+    <string name="manual_exposure_compensation_desc">Manual Exposure Compensation</string>
+    <string name="media_accessibility_peek">Capture taken</string>
+    <string name="media_date_content_description">Media taken on %s</string>
+    <string name="media_processing_content_description">Media processing</string>
+    <string name="mimetype">MIME type</string>
+    <string name="mode_camera">Camera</string>
+    <string name="mode_camera_desc">Switch to Camera Mode</string>
+    <string name="mode_panorama">Panorama</string>
+    <string name="mode_panorama_desc">Switch to Panorama Mode</string>
+    <string name="mode_photosphere">Photo Sphere</string>
+    <string name="mode_photosphere_desc">Switch to Photo Sphere Mode</string>
+    <string name="mode_refocus">Lens Blur</string>
+    <string name="mode_refocus_desc">Switch to Lens Blur Mode</string>
+    <string name="mode_settings">Settings</string>
+    <string name="mode_timelapse">Time Lapse</string>
+    <string name="mode_video">Video</string>
+    <string name="mode_video_desc">Switch to Video Camera</string>
+    <string name="mode_wideangle">Wide Angle</string>
+    <string name="model">Model</string>
+    <string name="more_options_desc">More Options</string>
+    <string name="no_storage" product="default">Insert an SD card before using the camera.</string>
+    <string name="not_selectable_in_scene_mode">Not selectable in scene mode.</string>
+    <string name="open_source_licenses">Open source licenses</string>
+    <string name="orientation">Orientation</string>
+    <string name="pano_capture_indication">Capturing panorama</string>
+    <string name="pano_dialog_panorama_failed">Couldn\'t save panorama.</string>
+    <string name="pano_dialog_prepare_preview">Preparing panorama</string>
+    <string name="pano_dialog_title">Panorama</string>
+    <string name="pano_dialog_waiting_previous">Waiting for previous panorama</string>
+    <string name="pano_file_name_format" translatable="false">"'PANO'_yyyyMMdd_HHmmss"</string>
+    <string name="pano_orientation_fisheye" translatable="false">pano_fisheye</string>
+    <string name="pano_orientation_horizontal" translatable="false">pano_horizontal</string>
+    <string name="pano_orientation_vertical" translatable="false">pano_vertical</string>
+    <string name="pano_orientation_wide" translatable="false">pano_wide</string>
+    <string name="pano_review_rendering">Rendering panorama</string>
+    <string name="pano_review_saving_indication_str">Saving\u2026</string>
+    <string name="pano_too_fast_prompt">Too fast</string>
+    <string name="panorama_date_content_description">Panorama taken on %s</string>
+    <string name="path">Path</string>
+    <string name="photo_accessibility_peek">Photo taken</string>
+    <string name="photo_aspect_ratio_selection_content">You can change this later in Settings.</string>
+    <string name="photo_date_content_description">Photo taken on %s</string>
+    <string name="photo_editor">Photo Editor</string>
+    <string name="photo_size_selection_title">Choose photo size</string>
+    <string name="photosphere_date_content_description">Photo Sphere taken on %s</string>
+    <string name="please_wait">Please wait</string>
+    <string name="pref_boolean_false">0</string>
+    <string name="pref_boolean_true">1</string>
+    <string name="pref_camcorder_settings_category">Camcorder settings</string>
+    <string name="pref_camera_countdown_label_fifteen">15 SECONDS</string>
+    <string name="pref_camera_countdown_label_off">TIMER OFF</string>
+    <string name="pref_camera_countdown_label_one">1 SECOND</string>
+    <string name="pref_camera_countdown_label_ten">10 SECONDS</string>
+    <string name="pref_camera_countdown_label_three">3 SECONDS</string>
+    <string name="pref_camera_exposure_compensation">Manual exposure</string>
+    <string name="pref_camera_flashmode_default" translatable="false">auto</string>
+    <string name="pref_camera_flashmode_entry_auto">Auto</string>
+    <string name="pref_camera_flashmode_entry_off">Off</string>
+    <string name="pref_camera_flashmode_entry_on">On</string>
+    <string name="pref_camera_flashmode_label">FLASH MODE</string>
+    <string name="pref_camera_flashmode_label_auto">FLASH AUTO</string>
+    <string name="pref_camera_flashmode_label_off">FLASH OFF</string>
+    <string name="pref_camera_flashmode_label_on">FLASH ON</string>
+    <string name="pref_camera_flashmode_no_flash" translatable="false">no_flash</string>
+    <string name="pref_camera_flashmode_title">Flash mode</string>
+    <string name="pref_camera_focusmode_default" translatable="false">continuous-picture</string>
+    <string name="pref_camera_focusmode_entry_auto">Auto</string>
+    <string name="pref_camera_focusmode_entry_infinity">Infinity</string>
+    <string name="pref_camera_focusmode_entry_macro">Macro</string>
+    <string name="pref_camera_focusmode_label_auto">AUTO</string>
+    <string name="pref_camera_focusmode_label_infinity">INFINITY</string>
+    <string name="pref_camera_focusmode_label_macro">MACRO</string>
+    <string name="pref_camera_focusmode_title">Focus mode</string>
+    <string name="pref_camera_hdr_default">@string/setting_off_value</string>
+    <string name="pref_camera_hdr_label">HDR</string>
+    <string name="pref_camera_hdr_plus_default">@string/setting_off_value</string>
+    <string name="pref_camera_hdr_plus_flashmode_default" translatable="false">off</string>
+    <string name="pref_camera_hdr_supportmode_hdr" translatable="false">hdr</string>
+    <string name="pref_camera_hdr_supportmode_hdr_plus" translatable="false">hdr_plus</string>
+    <string name="pref_camera_hdr_supportmode_none" translatable="false">no_hdr</string>
+    <string name="pref_camera_id_default" translatable="false">0</string>
+    <string name="pref_camera_id_entry_back">Back</string>
+    <string name="pref_camera_id_entry_back_value" translatable="false">0</string>
+    <string name="pref_camera_id_entry_front">Front</string>
+    <string name="pref_camera_id_entry_front_value" translatable="false">1</string>
+    <string name="pref_camera_id_index_back" translatable="false">0</string>
+    <string name="pref_camera_id_index_front" translatable="false">1</string>
+    <string name="pref_camera_id_label_back">FRONT CAMERA</string>
+    <string name="pref_camera_id_label_front">BACK CAMERA</string>
+    <string name="pref_camera_id_title">Choose camera</string>
+    <string name="pref_camera_jpeg_quality_fine" translatable="false">fine</string>
+    <string name="pref_camera_jpeg_quality_normal" translatable="false">normal</string>
+    <string name="pref_camera_jpeg_quality_superfine" translatable="false">superfine</string>
+    <string name="pref_camera_location_label">LOCATION</string>
+    <string name="pref_camera_picturesize_default" translatable="false">large</string>
+    <string name="pref_camera_picturesize_entry_large">Large</string>
+    <string name="pref_camera_picturesize_entry_medium">Medium</string>
+    <string name="pref_camera_picturesize_entry_small">Small</string>
+    <string name="pref_camera_picturesize_title">Picture size</string>
+    <string name="pref_camera_recordlocation_default" translatable="false">none</string>
+    <string name="pref_camera_save_location_title">Save location</string>
+    <string name="pref_camera_scenemode_default" translatable="false">auto</string>
+    <string name="pref_camera_scenemode_entry_action">Action</string>
+    <string name="pref_camera_scenemode_entry_auto">Auto</string>
+    <string name="pref_camera_scenemode_entry_hdr">HDR</string>
+    <string name="pref_camera_scenemode_entry_hdr_plus">HDR+</string>
+    <string name="pref_camera_scenemode_entry_night">Night</string>
+    <string name="pref_camera_scenemode_entry_party">Party</string>
+    <string name="pref_camera_scenemode_entry_sunset">Sunset</string>
+    <string name="pref_camera_scenemode_entry_turn_hdr_off">HDR OFF</string>
+    <string name="pref_camera_scenemode_entry_turn_hdr_on">HDR ON</string>
+    <string name="pref_camera_scenemode_entry_turn_hdr_plus_off">HDR+ OFF</string>
+    <string name="pref_camera_scenemode_entry_turn_hdr_plus_on">HDR+ ON</string>
+    <string name="pref_camera_scenemode_label_action">ACTION</string>
+    <string name="pref_camera_scenemode_label_auto">NONE</string>
+    <string name="pref_camera_scenemode_label_night">NIGHT</string>
+    <string name="pref_camera_scenemode_label_party">PARTY</string>
+    <string name="pref_camera_scenemode_label_sunset">SUNSET</string>
+    <string name="pref_camera_scenemode_title">Scene mode</string>
+    <string name="pref_camera_settings_category">Camera settings</string>
+    <string name="pref_camera_startup_index_default" translatable="false">0</string>
+    <string name="pref_camera_timer_default" translatable="false">0</string>
+    <string name="pref_camera_timer_sound_default">@string/setting_on_value</string>
+    <string name="pref_camera_timer_sound_title">Beep during countdown</string>
+    <string name="pref_camera_timer_title">Countdown timer</string>
+    <string name="pref_camera_video_flashmode_default" translatable="false">off</string>
+    <string name="pref_camera_whitebalance_default" translatable="false">auto</string>
+    <string name="pref_camera_whitebalance_entry_auto">Auto</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">Cloudy</string>
+    <string name="pref_camera_whitebalance_entry_daylight">Daylight</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescent</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">Incandescent</string>
+    <string name="pref_camera_whitebalance_label">WHITE BALANCE</string>
+    <string name="pref_camera_whitebalance_label_auto">AUTO</string>
+    <string name="pref_camera_whitebalance_label_cloudy">CLOUDY</string>
+    <string name="pref_camera_whitebalance_label_daylight">DAYLIGHT</string>
+    <string name="pref_camera_whitebalance_label_fluorescent">FLUORESCENT</string>
+    <string name="pref_camera_whitebalance_label_incandescent">INCANDESCENT</string>
+    <string name="pref_camera_whitebalance_title">White balance</string>
+    <string name="pref_category_about">About</string>
+    <string name="pref_category_advanced">Advanced</string>
+    <string name="pref_category_general">General Settings</string>
+    <string name="pref_category_resolution_quality">Resolution &amp; quality</string>
+    <string name="pref_exposure_default" translatable="false">0</string>
+    <string name="pref_exposure_label">EXPOSURE</string>
+    <string name="pref_exposure_title">Exposure</string>
+    <string name="pref_filmstrip_peek_anim_play_times" translatable="false">20</string>
+    <string name="pref_shimmy_play_times" translatable="false">10</string>
+    <string name="pref_title_build_version">Build version</string>
+    <string name="pref_video_effect_default" translatable="false">none</string>
+    <string name="pref_video_effect_title">Effects</string>
+    <string name="pref_video_quality_entry_1080p">HD 1080p</string>
+    <string name="pref_video_quality_entry_1080p_notrans" translatable="false">HD 1080p</string>
+    <string name="pref_video_quality_entry_2160p">UHD 4K</string>
+    <string name="pref_video_quality_entry_2160p_notrans" translatable="false">UHD 4K</string>
+    <string name="pref_video_quality_entry_480p">SD 480p</string>
+    <string name="pref_video_quality_entry_480p_notrans" translatable="false">SD 480p</string>
+    <string name="pref_video_quality_entry_720p">HD 720p</string>
+    <string name="pref_video_quality_entry_720p_notrans" translatable="false">HD 720p</string>
+    <string name="pref_video_quality_entry_cif">CIF</string>
+    <string name="pref_video_quality_entry_cif_notrans" translatable="false">CIF</string>
+    <string name="pref_video_quality_entry_high">High</string>
+    <string name="pref_video_quality_entry_low">Low</string>
+    <string name="pref_video_quality_entry_qcif">QCIF</string>
+    <string name="pref_video_quality_entry_qcif_notrans" translatable="false">QCIF</string>
+    <string name="pref_video_quality_entry_qvga">QVGA</string>
+    <string name="pref_video_quality_entry_qvga_notrans" translatable="false">QVGA</string>
+    <string name="pref_video_quality_large" translatable="false">large</string>
+    <string name="pref_video_quality_medium" translatable="false">medium</string>
+    <string name="pref_video_quality_small" translatable="false">small</string>
+    <string name="pref_video_quality_title">Video quality</string>
+    <string name="pref_video_time_lapse_frame_interval_1000">1 second</string>
+    <string name="pref_video_time_lapse_frame_interval_10000">10 seconds</string>
+    <string name="pref_video_time_lapse_frame_interval_10800000">3 hours</string>
+    <string name="pref_video_time_lapse_frame_interval_12000">12 seconds</string>
+    <string name="pref_video_time_lapse_frame_interval_120000">2 minutes</string>
+    <string name="pref_video_time_lapse_frame_interval_1440000">24 minutes</string>
+    <string name="pref_video_time_lapse_frame_interval_14400000">4 hours</string>
+    <string name="pref_video_time_lapse_frame_interval_1500">1.5 seconds</string>
+    <string name="pref_video_time_lapse_frame_interval_15000">15 seconds</string>
+    <string name="pref_video_time_lapse_frame_interval_150000">2.5 minutes</string>
+    <string name="pref_video_time_lapse_frame_interval_180000">3 minutes</string>
+    <string name="pref_video_time_lapse_frame_interval_1800000">0.5 hours</string>
+    <string name="pref_video_time_lapse_frame_interval_18000000">5 hours</string>
+    <string name="pref_video_time_lapse_frame_interval_2000">2 seconds</string>
+    <string name="pref_video_time_lapse_frame_interval_21600000">6 hours</string>
+    <string name="pref_video_time_lapse_frame_interval_24000">24 seconds</string>
+    <string name="pref_video_time_lapse_frame_interval_240000">4 minutes</string>
+    <string name="pref_video_time_lapse_frame_interval_2500">2.5 seconds</string>
+    <string name="pref_video_time_lapse_frame_interval_3000">3 seconds</string>
+    <string name="pref_video_time_lapse_frame_interval_30000">0.5 minutes</string>
+    <string name="pref_video_time_lapse_frame_interval_300000">5 minutes</string>
+    <string name="pref_video_time_lapse_frame_interval_360000">6 minutes</string>
+    <string name="pref_video_time_lapse_frame_interval_3600000">1 hour</string>
+    <string name="pref_video_time_lapse_frame_interval_36000000">10 hours</string>
+    <string name="pref_video_time_lapse_frame_interval_4000">4 seconds</string>
+    <string name="pref_video_time_lapse_frame_interval_43200000">12 hours</string>
+    <string name="pref_video_time_lapse_frame_interval_500">0.5 seconds</string>
+    <string name="pref_video_time_lapse_frame_interval_5000">5 seconds</string>
+    <string name="pref_video_time_lapse_frame_interval_5400000">1.5 hour</string>
+    <string name="pref_video_time_lapse_frame_interval_54000000">15 hours</string>
+    <string name="pref_video_time_lapse_frame_interval_6000">6 seconds</string>
+    <string name="pref_video_time_lapse_frame_interval_60000">1 minute</string>
+    <string name="pref_video_time_lapse_frame_interval_600000">10 minutes</string>
+    <string name="pref_video_time_lapse_frame_interval_720000">12 minutes</string>
+    <string name="pref_video_time_lapse_frame_interval_7200000">2 hours</string>
+    <string name="pref_video_time_lapse_frame_interval_86400000">24 hours</string>
+    <string name="pref_video_time_lapse_frame_interval_90000">1.5 minutes</string>
+    <string name="pref_video_time_lapse_frame_interval_900000">15 minutes</string>
+    <string name="pref_video_time_lapse_frame_interval_9000000">2.5 hours</string>
+    <string name="pref_video_time_lapse_frame_interval_default" translatable="false">0</string>
+    <string name="pref_video_time_lapse_frame_interval_off">Off</string>
+    <string name="pref_video_time_lapse_frame_interval_title">Time lapse</string>
+    <string name="preparing_sd" product="default">Preparing SD card\u2026</string>
+    <string name="processing_hdr_plus">Processing HDR+ …</string>
+    <string name="reason_storage_failure">Photo storage failure.</string>
+    <string name="refocus_date_content_description">Lens blur taken on %s</string>
+    <string name="remember_location_no">No thanks</string>
+    <string name="remember_location_prompt">Tag your photos and videos with the locations where they\'re taken.</string>
+    <string name="remember_location_title">Remember photo locations?</string>
+    <string name="remember_location_yes">Yes</string>
+    <string name="retake_button_description">Retake</string>
+    <string name="review_button_description">Review</string>
+    <string name="rotate_left">Rotate left</string>
+    <string name="rotate_right">Rotate right</string>
+    <string name="saving_tiny_planet">Saving Tiny Planet …</string>
+    <string name="session_saving_image">Saving\u2026</string>
+    <string name="set_as">Set as</string>
+    <string name="set_duration">Set duration in seconds</string>
+    <string name="set_image">Set picture as</string>
+    <string name="set_time_interval">Set Time Interval</string>
+    <string name="set_time_interval_help">Time lapse feature is off. Turn it on to set time interval.</string>
+    <string name="setting_back_camera_photo">Back camera photo</string>
+    <string name="setting_back_camera_video">Back camera video</string>
+    <string name="setting_default_camera">Default Camera</string>
+    <string name="setting_front_camera_photo">Front camera photo</string>
+    <string name="setting_front_camera_video">Front camera video</string>
+    <string name="setting_google_help_and_feedback">Help &amp; feedback</string>
+    <string name="setting_location">Location</string>
+    <string name="setting_none_value" translatable="false">none</string>
+    <string name="setting_off">Off</string>
+    <string name="setting_off_value" translatable="false">off</string>
+    <string name="setting_on">On</string>
+    <string name="setting_on_value" translatable="false">on</string>
+    <string name="setting_summary_aspect_ratio_and_megapixels">(%1$d:%2$d) %3$s megapixels</string>
+    <string name="setting_summary_x_megapixels">%1$s megapixels</string>
+    <string name="setting_wallpaper">Setting wallpaper</string>
+    <string name="settings_cling_text">In Settings, change resolution and quality, or try advanced features.</string>
+    <string name="settings_close_desc">Close settings</string>
+    <string name="settings_open_desc">Open settings</string>
+    <string name="share">Share</string>
+    <string name="share_as_photo">Share as photo</string>
+    <string name="share_button_description">Share</string>
+    <string name="share_panorama">Share panorama</string>
+    <string name="share_to">Share to</string>
+    <string name="show_on_map">Show on map</string>
+    <string name="spaceIsLow_content" product="default">Your SD card is running out of space. Change the quality setting or delete some images or other files.</string>
+    <string name="startup_dialog_button_next">NEXT</string>
+    <string name="switch_photo_filmstrip">Filmstrip view</string>
+    <string name="tag_enabled_id" translatable="false">enabled_id</string>
+    <string name="tap_to_focus">Touch to focus.</string>
+    <string name="time">Time</string>
+    <string name="time_lapse_hours">hours</string>
+    <string name="time_lapse_interval_set">Done</string>
+    <string name="time_lapse_minutes">minutes</string>
+    <string name="time_lapse_seconds">seconds</string>
+    <string name="time_lapse_title">Time lapse recording</string>
+    <string name="tiny_planet_rotate">Rotate</string>
+    <string name="tiny_planet_zoom">Zoom</string>
+    <string name="title">Title</string>
+    <string name="torch_off_desc">Torch off</string>
+    <string name="torch_on_desc">Torch on</string>
+    <string name="trim_action">Trim</string>
+    <string name="try_to_set_local_album_available_offline">
+        This item is stored locally and available offline.</string>
+    <string name="undo">UNDO</string>
+    <string name="unit_mm">mm</string>
+    <string name="unknown">Unknown</string>
+    <string name="video_accessibility_peek">Video taken</string>
+    <string name="video_camera_label">Camcorder</string>
+    <string name="video_control_play">Play Video</string>
+    <string name="video_date_content_description">Video taken on %s</string>
+    <string name="video_err">Can\'t play video.</string>
+    <string name="video_file_name_format" translatable="false">"'VID'_yyyyMMdd_HHmmss"</string>
+    <string name="video_reach_size_limit">Size limit reached.</string>
+    <string name="video_recording_started">Video recording has started.</string>
+    <string name="video_recording_stopped">Video recording has stopped.</string>
+    <string name="video_snapshot_hint">Touch to take photo while recording.</string>
+    <string name="view_button_description">View</string>
+    <string name="wait">Please wait\u2026</string>
+    <string name="white_balance">White balance</string>
+    <string name="width">Width</string>
+    <style name="Animation_OnScreenHint">
+        <item name="android:windowEnterAnimation">@anim/on_screen_hint_enter</item>
+        <item name="android:windowExitAnimation">@anim/on_screen_hint_exit</item>
+    </style>
+    <style name="BlueButton">
+        <item name="android:layout_width">144dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:background">@drawable/button_cling</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/blue_button_text_color</item>
+        <item name="android:padding">12dp</item>
+    </style>
+    <style name="Camera.ActionBar" parent="android:Widget.Holo.Light.ActionBar">
+        <item name="android:displayOptions">useLogo|showHome|homeAsUp</item>
+        <item name="android:background">@drawable/actionbar_translucent</item>
+        <item name="android:backgroundStacked">@null</item>
+    </style>
+    <style name="CameraControls">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="DialogCheckBox">
+        <item name="android:textColor">@color/dialog_text_color</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineSpacingExtra">1.9sp</item>
+        <!-- In v21 Material, can handle black button with a tint property; for
+             earlier versions we must fully replace the drawable which we do
+             here with a Material-style black asset -->
+        <item name="android:button">@drawable/checkbox_material_black</item>
+    </style>
+    <style name="FilmstripBottomControlButton">
+        <item name="android:layout_width">@dimen/filmstrip_bottom_control_button_size</item>
+        <item name="android:layout_height">@dimen/filmstrip_bottom_control_button_size</item>
+        <item name="android:background">@drawable/transparent_button_background</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+    <style name="FilmstripBottomProgressText">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:shadowColor">@android:color/black</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+    <style name="IndicatorIcon">
+        <item name="android:layout_width">@dimen/indicator_icon_width</item>
+        <item name="android:layout_height">@dimen/indicator_icon_height</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:background">@null</item>
+    </style>
+    <style name="MenuIndicator">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:enabled">false</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="ModeOption">
+      <item name="android:layout_width">@dimen/mode_option_width</item>
+      <item name="android:layout_height">@dimen/mode_option_height</item>
+      <item name="android:layout_margin">6dp</item>
+      <item name="android:background">@null</item>
+    </style>
+    <style name="OnScreenHintTextAppearance">
+        <item name="android:textColor">@android:color/primary_text_dark</item>
+        <item name="android:textColorHighlight">#FFFF9200</item>
+        <item name="android:textColorHint">#808080</item>
+        <item name="android:textColorLink">#5C5CFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="OnScreenHintTextAppearance.Small">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/secondary_text_dark</item>
+    </style>
+    <style name="OnViewfinderLabel">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:paddingRight">15dp</item>
+        <item name="android:paddingTop">3dp</item>
+        <item name="android:paddingBottom">3dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:background">@drawable/bg_text_on_preview</item>
+    </style>
+    <style name="PanoCustomDialogText">
+        <item name="android:textAppearance">@android:style/TextAppearance.Medium</item>
+    </style>
+    <style name="PanoCustomDialogText_xlarge">
+        <item name="android:textAppearance">@android:style/TextAppearance.Large</item>
+    </style>
+    <style name="PanoViewHorizontalBar">
+        <item name="android:background">#000000</item>
+        <item name="android:alpha">1.0</item>
+    </style>
+    <style name="PopupTitleSeparator">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">2dp</item>
+        <item name="android:background">@color/popup_title_color</item>
+    </style>
+    <style name="PopupTitleText_xlarge">
+        <item name="android:textSize">@dimen/popup_title_text_size</item>
+        <item name="android:layout_gravity">left|center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/popup_title_color</item>
+        <item name="android:layout_marginLeft">10dp</item>
+    </style>
+    <style name="ReviewControlText_xlarge">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:background">@drawable/bg_pressed_exit_fading</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+    <style name="ReviewPlayIcon">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:src">@drawable/ic_gallery_play_big</item>
+    </style>
+    <style name="Settings.ActionBar" parent="android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/main_color_global</item>
+    </style>
+    <style name="SwitcherButton">
+        <item name="android:layout_width">@dimen/switcher_size</item>
+        <item name="android:layout_height">@dimen/switcher_size</item>
+        <item name="android:background">@drawable/bg_pressed_exit_fading</item>
+    </style>
+    <style name="TextAppearance.DialogWindowTitle" parent="">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/holo_blue_light</item>
+    </style>
+    <style name="TextAppearance.Medium" parent="@android:style/TextAppearance.Medium"/>
+    <style name="Theme.Camera" parent="android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowTitleSize">0dp</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@color/camera_gray_background</item>
+        <item name="android:colorBackground">@color/camera_gray_background</item>
+        <item name="android:colorBackgroundCacheHint">@color/camera_gray_background</item>
+        <item name="android:actionBarStyle">@style/Camera.ActionBar</item>
+    </style>
+    <style name="Theme.CameraSettings" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+       <item name="android:windowFullscreen">true</item>
+       <item name="android:actionBarStyle">@style/Settings.ActionBar</item>
+    </style>
+    <style name="Theme.ProxyLauncher" parent="@android:Theme.Translucent.NoTitleBar">
+    </style>
+    <style name="Theme.SecureCamera" parent="@style/Theme.Camera">
+        <item name="android:windowBackground">@drawable/cover</item>
+    </style>
+    <style name="UndoBar">
+        <item name="android:layout_marginBottom">64dp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:layout_gravity">bottom|center_horizontal</item>
+        <item name="android:background">@drawable/panel_undo_holo</item>
+    </style>
+    <style name="UndoBarSeparator">
+        <item name="android:background">@color/gray</item>
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:paddingRight">12dp</item>
+    </style>
+    <style name="UndoBarTextAppearance">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="UndoButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:drawablePadding">8dp</item>
+        <item name="android:background">@drawable/bg_pressed</item>
+    </style>
+    <style name="ViewfinderLabelLayout_xlarge">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_margin">13dp</item>
+    </style>
+    <style name="Widget.Button.Borderless" parent="android:Widget.Button">
+        <item name="android:background">@drawable/bg_pressed</item>
+        <item name="android:textAppearance">@style/TextAppearance.Medium</item>
+        <item name="android:textColor">@color/primary_text</item>
+        <item name="android:minHeight">48dip</item>
+        <item name="android:minWidth">64dip</item>
+        <item name="android:paddingLeft">4dip</item>
+        <item name="android:paddingRight">4dip</item>
+    </style>
+    <style name="fullscreen_dialog_title">
+        <item name="android:textSize">24sp</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+        <item name="android:textColor">@color/dialog_text_color</item>
+    </style>
+    <style name="start_up_dialog_content">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="big_setting_popup_window_width">@dimen/big_setting_popup_window_width_xlarge</dimen>
+    <dimen name="effect_setting_clear_text_min_height">@dimen/effect_setting_clear_text_min_height_xlarge</dimen>
+    <dimen name="effect_setting_clear_text_size">@dimen/effect_setting_clear_text_size_xlarge</dimen>
+    <dimen name="effect_setting_item_icon_width">@dimen/effect_setting_item_icon_width_xlarge</dimen>
+    <dimen name="effect_setting_item_text_size">@dimen/effect_setting_item_text_size_xlarge</dimen>
+    <dimen name="effect_setting_type_text_left_padding">@dimen/effect_setting_type_text_left_padding_xlarge</dimen>
+    <dimen name="effect_setting_type_text_min_height">@dimen/effect_setting_type_text_min_height_xlarge</dimen>
+    <dimen name="effect_setting_type_text_size">@dimen/effect_setting_type_text_size_xlarge</dimen>
+    <dimen name="indicator_bar_width">@dimen/indicator_bar_width_xlarge</dimen>
+    <dimen name="onscreen_exposure_indicator_text_size">@dimen/onscreen_exposure_indicator_text_size_xlarge</dimen>
+    <dimen name="onscreen_indicators_height">@dimen/onscreen_indicators_height_xlarge</dimen>
+    <dimen name="pano_mosaic_surface_height">@dimen/pano_mosaic_surface_height_xlarge</dimen>
+    <dimen name="pano_review_button_height">@dimen/pano_review_button_height_xlarge</dimen>
+    <dimen name="pano_review_button_width">@dimen/pano_review_button_width_xlarge</dimen>
+    <dimen name="popup_title_frame_min_height">@dimen/popup_title_frame_min_height_xlarge</dimen>
+    <dimen name="popup_title_text_size">@dimen/popup_title_text_size_xlarge</dimen>
+    <dimen name="setting_item_icon_width">@dimen/setting_item_icon_width_xlarge</dimen>
+    <dimen name="setting_item_list_margin">@dimen/setting_item_list_margin_xlarge</dimen>
+    <dimen name="setting_item_text_size">@dimen/setting_item_text_size_xlarge</dimen>
+    <dimen name="setting_item_text_width">@dimen/setting_item_text_width_xlarge</dimen>
+    <dimen name="setting_knob_width">@dimen/setting_knob_width_xlarge</dimen>
+    <dimen name="setting_popup_window_width">@dimen/setting_popup_window_width_xlarge</dimen>
+    <dimen name="setting_row_height">@dimen/setting_row_height_xlarge</dimen>
+    <item name="btn_video_shutter_recording_holo" type="drawable">@drawable/btn_video_shutter_recording_holo_xlarge</item>
+    <item name="btn_video_shutter_recording_pressed_holo" type="drawable">@drawable/btn_video_shutter_recording_pressed_holo_xlarge</item>
+    <item name="ic_effects_holo_light" type="drawable">@drawable/ic_effects_holo_light_xlarge</item>
+    <item name="ic_pan_border_fast" type="drawable">@drawable/ic_pan_border_fast_xlarge</item>
+    <item name="ic_pan_left_indicator" type="drawable">@drawable/ic_pan_left_indicator_xlarge</item>
+    <item name="ic_pan_left_indicator_fast" type="drawable">@drawable/ic_pan_left_indicator_fast_xlarge</item>
+    <item name="ic_pan_progression" type="drawable">@drawable/ic_pan_progression_xlarge</item>
+    <item name="ic_pan_right_indicator" type="drawable">@drawable/ic_pan_right_indicator_xlarge</item>
+    <item name="ic_pan_right_indicator_fast" type="drawable">@drawable/ic_pan_right_indicator_fast_xlarge</item>
+    <item name="ic_scn_holo_light" type="drawable">@drawable/ic_scn_holo_light_xlarge</item>
+    <item name="ic_snapshot_border" type="drawable">@drawable/ic_snapshot_border_xlarge</item>
+    <item name="ic_switch_photo_facing_holo_light" type="drawable">@drawable/ic_switch_photo_facing_holo_light_xlarge</item>
+    <item name="ic_switch_video_facing_holo_light" type="drawable">@drawable/ic_switch_video_facing_holo_light_xlarge</item>
+    <style name="PanoCustomDialogText" parent="@style/PanoCustomDialogText_xlarge"/>
+    <style name="PopupTitleText" parent="@style/PopupTitleText_xlarge"/>
+    <style name="ReviewControlText" parent="@style/ReviewControlText_xlarge"/>
+    <style name="SettingPopupWindow" parent="@style/SettingPopupWindow_xlarge"/>
+    <style name="ViewfinderLabelLayout" parent="@style/ViewfinderLabelLayout_xlarge"/>
+</resources>

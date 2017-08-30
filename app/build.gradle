@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "26.0.1"
+
+    defaultConfig {
+        applicationId "com.android.camera2"
+        minSdkVersion 19
+        targetSdkVersion 25
+
+        ndk {
+            moduleName "libjni_tinyplanet"
+        }
+
+        testApplicationId "com.android.camera.tests"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'com.google.code.findbugs', name: 'jsr305', version: '3.0.2'
+    compile 'com.google.guava:guava:23.0-android'
+    compile 'com.github.bumptech.glide:glide:3.6.1'
+    compile 'com.android.support:support-v4:25.3.1'
+}

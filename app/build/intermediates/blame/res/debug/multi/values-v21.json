@@ -1,0 +1,133 @@
+[
+    {
+        "outputFile": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-v21\\arrays.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 908
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1794,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 2112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 913,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1207
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2823,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 3117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1212,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1666
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2363,
+                        "endLine": 52,
+                        "endColumn": 12,
+                        "endOffset": 2817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1671,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2676
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2681,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 2920
+                },
+                "from": {
+                    "file": "C:\\Users\\Amir\\AndroidStudioProjects\\Camera2AS\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2118,
+                        "endLine": 44,
+                        "endColumn": 12,
+                        "endOffset": 2357
+                    }
+                }
+            }
+        ]
+    }
+]

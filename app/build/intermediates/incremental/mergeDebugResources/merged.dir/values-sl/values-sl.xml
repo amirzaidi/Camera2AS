@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="2634861611082499811" name="access_sd_fail" product="default">"Dostop do kartice SD ni bil mogoč."</string>
+    <string msgid="5679989494636116448" name="accessibility_cancel_button">"Prekliči"</string>
+    <string msgid="1084094675439953723" name="accessibility_check_box">"Potrditveno polje %1$s"</string>
+    <string msgid="6966978483643396442" name="accessibility_filmstrip_toggle">"Preklopi na filmski trak"</string>
+    <string msgid="7692103503958544723" name="accessibility_menu_button">"Gumb za meni"</string>
+    <string msgid="3743267380450401866" name="accessibility_mode_list_hidden">"Seznam načinov zaprt"</string>
+    <string msgid="5284322142734069179" name="accessibility_mode_list_shown">"Seznam načinov odprt"</string>
+    <string msgid="4784230103566918645" name="accessibility_mode_list_toggle">"Preklopi na seznam načinov"</string>
+    <string msgid="6376831760155403217" name="accessibility_mode_options">"Možnosti"</string>
+    <string msgid="8850636036927992409" name="accessibility_mode_zoom_minus">"Pomanjšava"</string>
+    <string msgid="4967389173992713073" name="accessibility_mode_zoom_plus">"Povečava"</string>
+    <string msgid="5462850829869569629" name="accessibility_review_cancel">"Prekliči pregled"</string>
+    <string msgid="3486465319880320270" name="accessibility_review_ok">"Pregled opravljen"</string>
+    <string msgid="2547112860787022130" name="accessibility_review_retake">"Vnovični pregled"</string>
+    <string msgid="6040483605347230438" name="accessibility_shutter_button">"Gumb za fotografiranje"</string>
+    <string msgid="4518394037216725274" name="accessibility_switch_to_camera">"Preklopi na fotoaparat"</string>
+    <string msgid="7562625440767034695" name="accessibility_switch_to_gcam">"Preklopi na visoko kakovost"</string>
+    <string msgid="8322228859117808037" name="accessibility_switch_to_panorama">"Preklopi na panoramo"</string>
+    <string msgid="5803217570370854725" name="accessibility_switch_to_photo_sphere">"Preklopi na način photo sphere"</string>
+    <string msgid="6796169367953860106" name="accessibility_switch_to_refocus">"Preklopi na vnovično ostrenje"</string>
+    <string msgid="8174781871592793967" name="accessibility_switch_to_video">"Preklopi na videokamero"</string>
+    <string msgid="1251880974313179442" name="accessibility_unlock_to_camera">"Odklepanje v fotoaparat"</string>
+    <string msgid="6976673411698319811" name="accessibility_zoom_announcement">"Stopnja povečave je %.1f"</string>
+    <string msgid="2453802098282814022" name="aperture">"Zaslonka"</string>
+    <string msgid="1175086483881127797" name="app_name">"Fotoaparat"</string>
+    <string msgid="2552649885114400474" name="auto">"Samodejno"</string>
+    <string msgid="3666693972882351490" name="btn_filmstrip_toggle">"Filmski trak"</string>
+    <string msgid="3986242443098400164" name="btn_mode_list_toggle">"Seznam načinov"</string>
+    <string msgid="5436240345362098272" name="btn_zoom_minus">"Z-"</string>
+    <string msgid="4645138949375961656" name="btn_zoom_plus">"Z+"</string>
+    <string msgid="3759686152778772111" name="button_change_announcement">"Stanje gumba je zdaj %s"</string>
+    <string msgid="6200558085072670067" name="camera_error_title">"Napaka fotoaparata"</string>
+    <string msgid="3566327490758890635" name="camera_id_back_desc">"Zadnji fotoaparat"</string>
+    <string msgid="7497517948130254220" name="camera_id_front_desc">"Sprednji fotoaparat"</string>
+    <string msgid="7951917844735828365" name="camera_menu_more_label">"VEČ MOŽNOSTI"</string>
+    <string msgid="3862756725328016822" name="camera_menu_settings_label">"NASTAVITVE"</string>
+    <string msgid="3801167024006905033" name="cancel_button_description">"Prekliči"</string>
+    <string msgid="4100136187076585580" name="cannot_load_image">"Slike ni mogoče naložiti."</string>
+    <string msgid="3020696135020167263" name="capital_off">"IZKLOPLJENO"</string>
+    <string msgid="1118214824959797269" name="capital_on">"VKLOPLJENO"</string>
+    <string msgid="5255164204641920893" name="capturing">"Snemanje"</string>
+    <string msgid="6192797848995967992" name="clear_effects">"Počisti učinke"</string>
+    <string msgid="4785017397116829802" name="cling_text_for_refocus_editor_button">"Če želite uporabiti vnovično ostrenje, se dotaknite tukaj"</string>
+    <string msgid="4826166926297479820" name="close">"Zapri"</string>
+    <string msgid="7389949384482206814" name="confirm_button_text">"RAZUMEM"</string>
+    <string msgid="7586031110595513050" name="count_down_title_text">"Odštevanje pred fotografiranjem"</string>
+    <string msgid="9085308782250002795" name="countdown_timer_duration_10s">"Trajanje odštevalnika je nastavljeno na 10 sekund"</string>
+    <string msgid="7435393834886072664" name="countdown_timer_duration_3s">"Trajanje odštevalnika je nastavljeno na 3 sekunde"</string>
+    <string msgid="1663008439564495948" name="countdown_timer_off">"Odštevalnik je izklopljen"</string>
+    <string msgid="5186918191372107343" name="create_tiny_planet">"Ustvari planetek"</string>
+    <string msgid="6933589718464132714" name="crop_action">"Obrezovanje"</string>
+    <string msgid="2841974981340098579" name="crop_save">"Shrani"</string>
+    <string msgid="4742161537633251795" name="cropped_sensor_16x9_aspect_ratio">"Obrezano tipalo \n(16 : 9)"</string>
+    <string msgid="2714492172818940424" name="delete">"Izbriši"</string>
+    <string msgid="2251065309677200911" name="delete_button_description">"Izbriši"</string>
+    <string msgid="2036165115527228127" name="deleted">"Izbrisano"</string>
+    <string msgid="8193138501982849808" name="description">"Opis"</string>
+    <string msgid="4404020741542549488" name="details">"Podrobnosti"</string>
+    <string msgid="4842276230698703554" name="details_hms">"%1$d:%2$02d:%3$02d"</string>
+    <string msgid="6618163484662724641" name="details_ms">"%1$02d:%2$02d"</string>
+    <string msgid="692365061128351656" name="dialog_cancel">"Prekliči"</string>
+    <string msgid="1382550604990470119" name="dialog_dismiss">"Opusti"</string>
+    <string msgid="774141340500181131" name="dialog_ok">"V redu"</string>
+    <string msgid="7616428760369876209" name="dialog_report">"Poročanje"</string>
+    <string msgid="1334963435441544592" name="done_button_description">"Končano"</string>
+    <string msgid="5316211067383665008" name="duration">"Trajanje"</string>
+    <string msgid="2776879395749004347" name="edit">"Urejanje"</string>
+    <string msgid="98550816724901925" name="edit_button_description">"Uredi"</string>
+    <string msgid="615569327230783971" name="edit_with">"Uredi z aplikacijo"</string>
+    <string msgid="2333888391153564920" name="effect_backdropper_gallery">"Vaš videopos."</string>
+    <string msgid="9133825395915767627" name="effect_backdropper_space">"V vesolju"</string>
+    <string msgid="7354053769863638757" name="effect_backdropper_sunset">"Sončni zahod"</string>
+    <string msgid="1358432220077975015" name="effect_background">"OZADJE"</string>
+    <string msgid="9220121522816762649" name="effect_goofy_face_big_eyes">"Velike oči"</string>
+    <string msgid="2064008284599552683" name="effect_goofy_face_big_mouth">"Velika usta"</string>
+    <string msgid="6936976307035428164" name="effect_goofy_face_big_nose">"Velik nos"</string>
+    <string msgid="558042211252573238" name="effect_goofy_face_small_eyes">"Majhne oči"</string>
+    <string msgid="3105849596912069261" name="effect_goofy_face_small_mouth">"Majhna usta"</string>
+    <string msgid="1362021544829311452" name="effect_goofy_face_squeeze">"Stiskanje"</string>
+    <string msgid="3102797925086872636" name="effect_none">"Brez"</string>
+    <string msgid="7952713419757286453" name="effect_silly_faces">"NORČAVI OBRAZI"</string>
+    <string msgid="5582398275657419692" name="error_camera_disabled">"Fotoaparat je onemogočen zaradi varnostnih pravilnikov."</string>
+    <string msgid="2713059773224193128" name="error_cannot_connect_camera">"Povezava s fotoaparatom ni mogoča."</string>
+    <string msgid="7711687330673245629" name="error_media_storage_failure">"Pri shranjevanju fotografije ali videoposnetka je prišlo do težave."</string>
+    <string msgid="3454167403425651254" name="error_permissions">"Aplikacija nima nujnih dovoljenj, potrebnih za izvajanje. Preverite nastavitve dovoljenj."</string>
+    <string msgid="2820273752287040523" name="exposure_compensation_desc_0">"Korekcija osvetlitve: 0"</string>
+    <string msgid="3035027224866688267" name="exposure_compensation_desc_n1">"Korekcija osvetlitve: –1"</string>
+    <string msgid="8957966533506294324" name="exposure_compensation_desc_n2">"Korekcija osvetlitve: –2"</string>
+    <string msgid="2328275401634452554" name="exposure_compensation_desc_p1">"Korekcija osvetlitve: +1"</string>
+    <string msgid="4555277824096107142" name="exposure_compensation_desc_p2">"Korekcija osvetlitve: +2"</string>
+    <string msgid="949787291620767754" name="exposure_time">"Čas osvetlitve"</string>
+    <string msgid="419090951070170132" name="feedback_description_camera_access">"Aplikacija se ni mogla povezati s kamero"</string>
+    <string msgid="8658767358989083228" name="feedback_description_save_photo">"Shranjevanje fotografije ali videoposnetka ni uspelo."</string>
+    <string msgid="6841070748357980676" name="file_size">"Velikost dat."</string>
+    <string msgid="995041910749174196" name="flash">"Bliskavica"</string>
+    <string msgid="3009043125539675717" name="flash_auto_desc">"Samodejna bliskavica"</string>
+    <string msgid="7889323512830926273" name="flash_off">"Brez bliskav."</string>
+    <string msgid="7151559466286106797" name="flash_off_desc">"Bliskavica izklopljena"</string>
+    <string msgid="6573457197393807642" name="flash_on">"Blis. sprožena"</string>
+    <string msgid="930372145324854699" name="flash_on_desc">"Bliskavica vklopljena"</string>
+    <string msgid="8351221512187346229" name="focal_length">"Goriščna razd."</string>
+    <string msgid="1270461419743888925" name="full_sensor_4x3_aspect_ratio">"Polno tipalo \n(4 : 3)"</string>
+    <string msgid="2022385817190451353" name="grid_lines_off_desc">"Izklop mrežnih črt"</string>
+    <string msgid="4601540461914364817" name="grid_lines_on_desc">"Vklop mrežnih črt"</string>
+    <string msgid="7921924739852874675" name="hdr_off_desc">"Način HDR izklopljen"</string>
+    <string msgid="4591284110249047558" name="hdr_on_desc">"Način HDR vklopljen"</string>
+    <string msgid="4812200236263011537" name="hdr_plus_flash_auto_desc">"Bliskavica načina HDR+ – samodejno"</string>
+    <string msgid="5335888906983788789" name="hdr_plus_flash_off_desc">"Bliskavica načina HDR+ – izklopljeno"</string>
+    <string msgid="8323389161987561284" name="hdr_plus_flash_on_desc">"Bliskavica načina HDR+ – vklopljeno"</string>
+    <string msgid="5301287296717144319" name="hdr_plus_off_desc">"Način HDR Plus izklopljen"</string>
+    <string msgid="8204780034508139909" name="hdr_plus_on_desc">"Način HDR Plus vklopljen"</string>
+    <string msgid="5186001199353423689" name="height">"Višina"</string>
+    <string msgid="8578773821062054902" name="iso">"ISO"</string>
+    <string msgid="564326205780827668" name="location">"Lokacija"</string>
+    <string msgid="698691509121545856" name="maker">"Izdelovalec"</string>
+    <string msgid="2444400953521760140" name="manual">"Ročno"</string>
+    <string msgid="5595219532556566042" name="manual_exposure_compensation_desc">"Ročna korekcija osvetlitve"</string>
+    <string msgid="234540330161031946" name="media_accessibility_peek">"Posnetek narejen"</string>
+    <string msgid="2155634843596817141" name="media_date_content_description">"Predstavnost posneta %s"</string>
+    <string msgid="8138587719107183754" name="media_processing_content_description">"Obdelava predstavnosti"</string>
+    <string msgid="6415940055077963944" name="mimetype">"Vrsta MIME"</string>
+    <string msgid="279763925715250603" name="mode_camera">"Fotoaparat"</string>
+    <string msgid="3670807361165657278" name="mode_camera_desc">"Preklopi v osnovni način fotoaparata"</string>
+    <string msgid="6882648621305828861" name="mode_panorama">"Panorama"</string>
+    <string msgid="6023020404237519590" name="mode_panorama_desc">"Preklopi v panoramski način"</string>
+    <string msgid="5082338476237291833" name="mode_photosphere">"Photo Sphere"</string>
+    <string msgid="2403816283825579161" name="mode_photosphere_desc">"Preklopi v način Photo Sphere"</string>
+    <string msgid="172192967119469061" name="mode_refocus">"Učinek fokusa"</string>
+    <string msgid="6171183297515508465" name="mode_refocus_desc">"Preklop v način za učinek fokusa"</string>
+    <string msgid="2021937261522670921" name="mode_settings">"Nastavitve"</string>
+    <string msgid="1517168724627815453" name="mode_timelapse">"Pospešena reprodukcija"</string>
+    <string msgid="8633929034048169139" name="mode_video">"Video"</string>
+    <string msgid="4058407412929464689" name="mode_video_desc">"Preklopi v način kamere"</string>
+    <string msgid="1099640345041696830" name="mode_wideangle">"Široki kot"</string>
+    <string msgid="8547493604023069452" name="model">"Model"</string>
+    <string msgid="4628738800610478353" name="more_options_desc">"Več možnosti"</string>
+    <string msgid="5922012950780548098" name="no_storage" product="default">"Pred uporabo fotoaparata vstavite kartico SD."</string>
+    <string msgid="3260801086980522611" name="not_selectable_in_scene_mode">"Ni mogoče izbrati v načinu prizora."</string>
+    <string msgid="2169711954264883060" name="open_source_licenses">"Odprtokodne licence"</string>
+    <string msgid="3883761294106680270" name="orientation">"Postavitev"</string>
+    <string msgid="4002128831255023954" name="pano_capture_indication">"Snemanje panorame"</string>
+    <string msgid="6772546547048693619" name="pano_dialog_panorama_failed">"Panorame ni bilo mogoče shraniti."</string>
+    <string msgid="4445235163599534263" name="pano_dialog_prepare_preview">"Priprava panorame"</string>
+    <string msgid="6662642763395425145" name="pano_dialog_title">"Panorama"</string>
+    <string msgid="2646847402743245320" name="pano_dialog_waiting_previous">"Čakanje na prejšnjo panoramo"</string>
+    <string msgid="2743087719999377155" name="pano_review_rendering">"Upodabljanje panorame"</string>
+    <string msgid="4691771283450663293" name="pano_review_saving_indication_str">"Shranjevan. …"</string>
+    <string msgid="2503148095578052177" name="pano_too_fast_prompt">"Prehitro"</string>
+    <string msgid="990703578639006144" name="panorama_date_content_description">"Panoramska fotografija posneta %s"</string>
+    <string msgid="5927003361865586353" name="path">"Pot"</string>
+    <string msgid="5934133371001677250" name="photo_accessibility_peek">"Fotografija posneta"</string>
+    <string msgid="6668224437962196229" name="photo_aspect_ratio_selection_content">"To lahko spremenite pozneje v nastavitvah."</string>
+    <string msgid="5705865897898465619" name="photo_date_content_description">"Fotografija posneta %s"</string>
+    <string msgid="1521994560971367225" name="photo_editor">"Urejevalnik fotografij"</string>
+    <string msgid="2789753590719172645" name="photo_size_selection_title">"Izberite velikost fotografij"</string>
+    <string msgid="4183741743409007876" name="photosphere_date_content_description">"Fotosfera posneta %s"</string>
+    <string msgid="1416313324505140068" name="please_wait">"Počakajte"</string>
+    <string msgid="461317129020087333" name="pref_boolean_false">"0"</string>
+    <string msgid="4131945223998878009" name="pref_boolean_true">"1"</string>
+    <string msgid="3553148484755353397" name="pref_camcorder_settings_category">"Nastavitve videokamere"</string>
+    <string msgid="8469955900530268867" name="pref_camera_countdown_label_fifteen">"15 SEKUND"</string>
+    <string msgid="3986433580620011481" name="pref_camera_countdown_label_off">"MERILNIK ČASA IZKLOPLJEN"</string>
+    <string msgid="7647972711796868848" name="pref_camera_countdown_label_one">"1 SEKUNDA"</string>
+    <string msgid="4372650985906500604" name="pref_camera_countdown_label_ten">"10 SEKUND"</string>
+    <string msgid="3154170918067103541" name="pref_camera_countdown_label_three">"3 SEKUNDE"</string>
+    <string msgid="4143245817259719147" name="pref_camera_exposure_compensation">"Ročna osvetlitev"</string>
+    <string msgid="4211992591841657014" name="pref_camera_flashmode_entry_auto">"Samodejno"</string>
+    <string msgid="8861322265566617357" name="pref_camera_flashmode_entry_off">"Izklopljeno"</string>
+    <string msgid="3519831202665377698" name="pref_camera_flashmode_entry_on">"Vklopljeno"</string>
+    <string msgid="5852483713534762800" name="pref_camera_flashmode_label">"NAČIN BLISKAVICE"</string>
+    <string msgid="2309144918900450379" name="pref_camera_flashmode_label_auto">"SAMODEJNA BLISKAVICA"</string>
+    <string msgid="7175863901446001441" name="pref_camera_flashmode_label_off">"BLISKAVICA IZKLOPLJENA"</string>
+    <string msgid="373595517770024934" name="pref_camera_flashmode_label_on">"BLISKAVICA VKLOPLJENA"</string>
+    <string msgid="8363803841022314574" name="pref_camera_flashmode_title">"Način bliskavice"</string>
+    <string msgid="8977409813328199501" name="pref_camera_focusmode_entry_auto">"Samodejno"</string>
+    <string msgid="3887667853236656322" name="pref_camera_focusmode_entry_infinity">"Neskončno"</string>
+    <string msgid="7632276686726851426" name="pref_camera_focusmode_entry_macro">"Makro"</string>
+    <string msgid="4884418453600317694" name="pref_camera_focusmode_label_auto">"SAMODEJNO"</string>
+    <string msgid="1673352016120343314" name="pref_camera_focusmode_label_infinity">"NESKONČNO"</string>
+    <string msgid="5065639298027996399" name="pref_camera_focusmode_label_macro">"MAKRO"</string>
+    <string msgid="3637702747984180030" name="pref_camera_focusmode_title">"Način ostrenja"</string>
+    <string msgid="1918040375414771185" name="pref_camera_hdr_label">"HDR"</string>
+    <string msgid="6386943973628160510" name="pref_camera_id_entry_back">"Zadaj"</string>
+    <string msgid="6233067010315787044" name="pref_camera_id_entry_front">"Spredaj"</string>
+    <string msgid="1645608049757733858" name="pref_camera_id_label_back">"FOTOAPARAT SPREDAJ"</string>
+    <string msgid="349308803062874842" name="pref_camera_id_label_front">"FOTOAPARAT ZADAJ"</string>
+    <string msgid="4680648115225411185" name="pref_camera_id_title">"Izberite fotoaparat"</string>
+    <string msgid="8695441802378057719" name="pref_camera_location_label">"LOKACIJA"</string>
+    <string msgid="9014447075089601575" name="pref_camera_picturesize_entry_large">"Velika"</string>
+    <string msgid="7708839551627003154" name="pref_camera_picturesize_entry_medium">"Srednja"</string>
+    <string msgid="2991239656622539068" name="pref_camera_picturesize_entry_small">"Majhna"</string>
+    <string msgid="686045304547541815" name="pref_camera_picturesize_title">"Velikost slike"</string>
+    <string msgid="2344235620113384017" name="pref_camera_save_location_title">"Shrani lokacijo"</string>
+    <string msgid="5753183620959062015" name="pref_camera_scenemode_entry_action">"Gibanje"</string>
+    <string msgid="9205644316260850379" name="pref_camera_scenemode_entry_auto">"Samodejno"</string>
+    <string msgid="3098836808080630955" name="pref_camera_scenemode_entry_hdr">"HDR"</string>
+    <string msgid="6759085555519758794" name="pref_camera_scenemode_entry_hdr_plus">"HDR+"</string>
+    <string msgid="3468037364159759991" name="pref_camera_scenemode_entry_night">"Ponoči"</string>
+    <string msgid="401232668169066415" name="pref_camera_scenemode_entry_party">"Zabava"</string>
+    <string msgid="5884302914893488509" name="pref_camera_scenemode_entry_sunset">"Sončni zahod"</string>
+    <string msgid="7694606461440250206" name="pref_camera_scenemode_entry_turn_hdr_off">"HDR IZKLOPLJEN"</string>
+    <string msgid="5232394324298489502" name="pref_camera_scenemode_entry_turn_hdr_on">"HDR VKLOPLJEN"</string>
+    <string msgid="2668770361856397834" name="pref_camera_scenemode_entry_turn_hdr_plus_off">"HDR+ IZKLOPLJEN"</string>
+    <string msgid="1096746750342289067" name="pref_camera_scenemode_entry_turn_hdr_plus_on">"HDR+ VKLOPLJEN"</string>
+    <string msgid="1822814017595414923" name="pref_camera_scenemode_label_action">"GIBANJE"</string>
+    <string msgid="2874586883608401615" name="pref_camera_scenemode_label_auto">"BREZ"</string>
+    <string msgid="7764371228088101131" name="pref_camera_scenemode_label_night">"PONOČI"</string>
+    <string msgid="917499272505930322" name="pref_camera_scenemode_label_party">"ZABAVA"</string>
+    <string msgid="3443610538453611123" name="pref_camera_scenemode_label_sunset">"SONČNI ZAHOD"</string>
+    <string msgid="5709932164781367066" name="pref_camera_scenemode_title">"Način prizora"</string>
+    <string msgid="4274141528139077830" name="pref_camera_settings_category">"Nastavitve fotoaparata"</string>
+    <string msgid="9036987234878551217" name="pref_camera_timer_sound_title">"Zvok med odštev."</string>
+    <string msgid="4728838281741571323" name="pref_camera_timer_title">"Odštevalni merilnik časa"</string>
+    <string msgid="1390631794449502796" name="pref_camera_whitebalance_entry_auto">"Samodejno"</string>
+    <string msgid="3569589102226796875" name="pref_camera_whitebalance_entry_cloudy">"Oblačno"</string>
+    <string msgid="757833578153467254" name="pref_camera_whitebalance_entry_daylight">"Dnevna svetloba"</string>
+    <string msgid="5157027611220790970" name="pref_camera_whitebalance_entry_fluorescent">"Fluorescenčno"</string>
+    <string msgid="1140391575294372706" name="pref_camera_whitebalance_entry_incandescent">"Žarilna nitka"</string>
+    <string msgid="7370366644738746700" name="pref_camera_whitebalance_label">"RAVNOVESJE BELINE"</string>
+    <string msgid="4305837287360485369" name="pref_camera_whitebalance_label_auto">"SAMODEJNO"</string>
+    <string msgid="4880793739075193336" name="pref_camera_whitebalance_label_cloudy">"OBLAČNO"</string>
+    <string msgid="4562002095198912409" name="pref_camera_whitebalance_label_daylight">"DNEVNA SVETLOBA"</string>
+    <string msgid="10552295745391742" name="pref_camera_whitebalance_label_fluorescent">"FLUORESCENČNO"</string>
+    <string msgid="2860805668879945185" name="pref_camera_whitebalance_label_incandescent">"ŽARILNA NITKA"</string>
+    <string msgid="7962809566612868179" name="pref_camera_whitebalance_title">"Ravnovesje beline"</string>
+    <string msgid="1966255405679342337" name="pref_category_about">"Vizitka"</string>
+    <string msgid="5921085080077574872" name="pref_category_advanced">"Dodatno"</string>
+    <string msgid="6737748849700581019" name="pref_category_general">"Splošne nastavitve"</string>
+    <string msgid="6641462402321962896" name="pref_category_resolution_quality">"Ločljivost in kakovost"</string>
+    <string msgid="2604738602400261218" name="pref_exposure_label">"OSVETLITEV"</string>
+    <string msgid="7525751789152582800" name="pref_exposure_title">"Osvetlitev"</string>
+    <string msgid="481489988124832651" name="pref_title_build_version">"Delovna različica"</string>
+    <string msgid="594570613431209010" name="pref_video_effect_title">"Učinki"</string>
+    <string msgid="4539958891524211120" name="pref_video_quality_entry_1080p">"HD 1080p"</string>
+    <string msgid="4522927631413184505" name="pref_video_quality_entry_2160p">"UHD 4K"</string>
+    <string msgid="5880250731066854583" name="pref_video_quality_entry_480p">"SD 480p"</string>
+    <string msgid="4076146428148167262" name="pref_video_quality_entry_720p">"HD 720p"</string>
+    <string msgid="645414019445016434" name="pref_video_quality_entry_cif">"CIF"</string>
+    <string msgid="1613578418842803393" name="pref_video_quality_entry_high">"Visoka"</string>
+    <string msgid="737962621299050603" name="pref_video_quality_entry_low">"Nizka"</string>
+    <string msgid="1717816794399266216" name="pref_video_quality_entry_qcif">"QCIF"</string>
+    <string msgid="342600517453781430" name="pref_video_quality_entry_qvga">"QVGA"</string>
+    <string msgid="5887153490982738588" name="pref_video_quality_title">"Kakovost videoposnet."</string>
+    <string msgid="9126255690984179200" name="pref_video_time_lapse_frame_interval_1000">"1 sekunda"</string>
+    <string msgid="1126841483618922521" name="pref_video_time_lapse_frame_interval_10000">"10 sekund"</string>
+    <string msgid="4064231412857457518" name="pref_video_time_lapse_frame_interval_10800000">"3 ure"</string>
+    <string msgid="8769265988037327085" name="pref_video_time_lapse_frame_interval_12000">"12 sekund"</string>
+    <string msgid="126293364329503816" name="pref_video_time_lapse_frame_interval_120000">"2 minuti"</string>
+    <string msgid="5691479246748705053" name="pref_video_time_lapse_frame_interval_1440000">"24 minut"</string>
+    <string msgid="5174457951350690217" name="pref_video_time_lapse_frame_interval_14400000">"4 ure"</string>
+    <string msgid="5793250074165436905" name="pref_video_time_lapse_frame_interval_1500">"1,5 sekunde"</string>
+    <string msgid="1452711342185926617" name="pref_video_time_lapse_frame_interval_15000">"15 sekund"</string>
+    <string msgid="3469164780802564276" name="pref_video_time_lapse_frame_interval_150000">"2,5 minute"</string>
+    <string msgid="6840421790710639463" name="pref_video_time_lapse_frame_interval_180000">"3 minute"</string>
+    <string msgid="8331728629455012478" name="pref_video_time_lapse_frame_interval_1800000">"0,5 ure"</string>
+    <string msgid="5091441456160949740" name="pref_video_time_lapse_frame_interval_18000000">"5 ur"</string>
+    <string msgid="1821755013078449188" name="pref_video_time_lapse_frame_interval_2000">"2 sekundi"</string>
+    <string msgid="6924571987775154098" name="pref_video_time_lapse_frame_interval_21600000">"6 ur"</string>
+    <string msgid="2505505645705111419" name="pref_video_time_lapse_frame_interval_24000">"24 sekund"</string>
+    <string msgid="1682865866425206481" name="pref_video_time_lapse_frame_interval_240000">"4 minute"</string>
+    <string msgid="8027471301321122045" name="pref_video_time_lapse_frame_interval_2500">"2,5 sekunde"</string>
+    <string msgid="1411114492405867872" name="pref_video_time_lapse_frame_interval_3000">"3 sekunde"</string>
+    <string msgid="3965378176246680626" name="pref_video_time_lapse_frame_interval_30000">"0,5 minute"</string>
+    <string msgid="6068734332915957652" name="pref_video_time_lapse_frame_interval_300000">"5 minut"</string>
+    <string msgid="4692565393277579688" name="pref_video_time_lapse_frame_interval_360000">"6 minut"</string>
+    <string msgid="4829442147263610121" name="pref_video_time_lapse_frame_interval_3600000">"1 ura"</string>
+    <string msgid="6959912631566981301" name="pref_video_time_lapse_frame_interval_36000000">"10 ur"</string>
+    <string msgid="1197483421014140132" name="pref_video_time_lapse_frame_interval_4000">"4 sekunde"</string>
+    <string msgid="6426833030111269499" name="pref_video_time_lapse_frame_interval_43200000">"12 ur"</string>
+    <string msgid="1425296755074319221" name="pref_video_time_lapse_frame_interval_500">"0,5 sekunde"</string>
+    <string msgid="7211885329755347592" name="pref_video_time_lapse_frame_interval_5000">"5 sekund"</string>
+    <string msgid="7011488725038113884" name="pref_video_time_lapse_frame_interval_5400000">"1,5 ure"</string>
+    <string msgid="6688725497680331090" name="pref_video_time_lapse_frame_interval_54000000">"15 ur"</string>
+    <string msgid="6665825017557898190" name="pref_video_time_lapse_frame_interval_6000">"6 sekund"</string>
+    <string msgid="1878467100201983878" name="pref_video_time_lapse_frame_interval_60000">"1 minuta"</string>
+    <string msgid="7109530398883649472" name="pref_video_time_lapse_frame_interval_600000">"10 minut"</string>
+    <string msgid="259321148909130247" name="pref_video_time_lapse_frame_interval_720000">"12 minut"</string>
+    <string msgid="7399563587870916008" name="pref_video_time_lapse_frame_interval_7200000">"2 uri"</string>
+    <string msgid="5510320806095156153" name="pref_video_time_lapse_frame_interval_86400000">"24 ur"</string>
+    <string msgid="496651530019049822" name="pref_video_time_lapse_frame_interval_90000">"1,5 minute"</string>
+    <string msgid="6814816608134052996" name="pref_video_time_lapse_frame_interval_900000">"15 minut"</string>
+    <string msgid="1545856778907835970" name="pref_video_time_lapse_frame_interval_9000000">"2,5 ure"</string>
+    <string msgid="3909611941842585497" name="pref_video_time_lapse_frame_interval_off">"Izklopljeno"</string>
+    <string msgid="4975260837607993569" name="pref_video_time_lapse_frame_interval_title">"Časovni zamik"</string>
+    <string msgid="7435693655017362767" name="preparing_sd" product="default">"Priprava kartice SD …"</string>
+    <string msgid="9160093263037540304" name="processing_hdr_plus">"Obdelava fotograf. HDR+ …"</string>
+    <string msgid="6818898304774654969" name="reason_storage_failure">"Napaka pri shranjevanju fotografije."</string>
+    <string msgid="5630960320424345547" name="refocus_date_content_description">"Fotografija z učinkom fokusa posneta %s"</string>
+    <string msgid="4412802756840226925" name="remember_location_no">"Ne, hvala"</string>
+    <string msgid="3006013504489919474" name="remember_location_prompt">"Fotografije in videoposnetke označite z lokacijami, na katerih so posneti."</string>
+    <string msgid="3045040613094030429" name="remember_location_title">"Želite beležiti lokacije fotografij?"</string>
+    <string msgid="4339424460683531388" name="remember_location_yes">"Da"</string>
+    <string msgid="4234613030674787714" name="retake_button_description">"Znova posnemi"</string>
+    <string msgid="7932122063748430080" name="review_button_description">"Pregled"</string>
+    <string msgid="2618440058490662604" name="rotate_left">"Zasuk v levo"</string>
+    <string msgid="4896096424267838355" name="rotate_right">"Zasuk v desno"</string>
+    <string msgid="8828265180177375494" name="saving_tiny_planet">"Shranjevanje planetka …"</string>
+    <string msgid="8932315404486416826" name="session_saving_image">"Shranjevanje …"</string>
+    <string msgid="5469055085024870081" name="set_as">"Nastavi kot"</string>
+    <string msgid="1638453882581604341" name="set_duration">"Nastavite trajanje v sekundah"</string>
+    <string msgid="3969690281401045698" name="set_image">"Nastavi sliko kot"</string>
+    <string msgid="2531393962847535331" name="set_time_interval">"Nastavite časovni interval"</string>
+    <string msgid="64145154088021389" name="set_time_interval_help">"Funkcija časovnega zamika je izklopljena. Vklopite jo, da nastavite časovni interval."</string>
+    <string msgid="256738900473265017" name="setting_back_camera_photo">"Fotoaparat zadaj: foto."</string>
+    <string msgid="5220819479408164689" name="setting_back_camera_video">"Fotoaparat zadaj: video"</string>
+    <string msgid="6954076799301004779" name="setting_default_camera">"Privzeta kamera"</string>
+    <string msgid="4131886734622868637" name="setting_front_camera_photo">"Fotoaparat spredaj: foto."</string>
+    <string msgid="2178799452805359752" name="setting_front_camera_video">"Fotoaparat spredaj: video"</string>
+    <string msgid="2079580537079242775" name="setting_google_help_and_feedback">"Pomoč in povrat. inform."</string>
+    <string msgid="4459859689227893838" name="setting_location">"Lokacija"</string>
+    <string msgid="6782191065550276632" name="setting_off">"Izklopljeno"</string>
+    <string msgid="9086728135773197891" name="setting_on">"Vklopljeno"</string>
+    <string msgid="5828440902461064821" name="setting_summary_aspect_ratio_and_megapixels">"(%1$d:%2$d) %3$s mio. slikovnih pik"</string>
+    <string msgid="6533463462760866830" name="setting_summary_x_megapixels">"%1$s slikovnih pik"</string>
+    <string msgid="2397759659347872725" name="setting_wallpaper">"Nastavljanje ozadja"</string>
+    <string msgid="5368054627268181292" name="settings_cling_text">"V nastavitvah spremenite ločljivost in kakovost ali preskusite dodatne funkcije."</string>
+    <string msgid="3095831199632813127" name="settings_close_desc">"Zapri nastavitve"</string>
+    <string msgid="6914471293841793766" name="settings_open_desc">"Odpri nastavitve"</string>
+    <string msgid="8581089487762243115" name="share">"Deli z drugimi"</string>
+    <string msgid="4831213580709167218" name="share_as_photo">"Deli z drugimi kot fotografijo"</string>
+    <string msgid="5108508790540832053" name="share_button_description">"Deli z drugimi"</string>
+    <string msgid="3558466186935359444" name="share_panorama">"Deli panoramo z drugimi"</string>
+    <string msgid="5144911209144798122" name="share_to">"Skupna raba prek:"</string>
+    <string msgid="8542853913632649160" name="show_on_map">"Pokaži na zemljevidu"</string>
+    <string msgid="4522771065344332702" name="spaceIsLow_content" product="default">"Na kartici SD zmanjkuje prostora. Spremenite nastavitev kakovosti ali izbrišite nekaj slik ali drugih datotek."</string>
+    <string msgid="1011831256978228993" name="startup_dialog_button_next">"NAPREJ"</string>
+    <string msgid="1448511001008888767" name="switch_photo_filmstrip">"Pogled filmskega traku"</string>
+    <string msgid="3519718196270593468" name="tap_to_focus">"Dotaknite se za ostrenje."</string>
+    <string msgid="5248213506417024287" name="time">"Čas"</string>
+    <string msgid="5294001144133261436" name="time_lapse_hours">"h"</string>
+    <string msgid="2418594453248958440" name="time_lapse_interval_set">"Dokončano"</string>
+    <string msgid="5325447383033224679" name="time_lapse_minutes">"min"</string>
+    <string msgid="7319683099532506270" name="time_lapse_seconds">"s"</string>
+    <string msgid="3267978566401228497" name="time_lapse_title">"Snemanje s časovnim zamikom"</string>
+    <string msgid="5445336705705350004" name="tiny_planet_rotate">"Zasukaj"</string>
+    <string msgid="2985522360577158474" name="tiny_planet_zoom">"Povečaj/pomanj."</string>
+    <string msgid="8061744305671964703" name="title">"Naslov"</string>
+    <string msgid="8304675202998742618" name="torch_off_desc">"Svetilka izklopljena"</string>
+    <string msgid="3069836196559213365" name="torch_on_desc">"Svetilka vklopljena"</string>
+    <string msgid="4736803320203951827" name="trim_action">"Obrezovanje"</string>
+    <string msgid="3363125545009254117" name="try_to_set_local_album_available_offline">"Element je shranjen lokalno in na voljo brez povezave."</string>
+    <string msgid="5110048345890050107" name="undo">"RAZVELJAVI"</string>
+    <string msgid="5210344300697638286" name="unit_mm">"mm"</string>
+    <string msgid="564184550182858146" name="unknown">"Neznano"</string>
+    <string msgid="7845916149291383132" name="video_accessibility_peek">"Videoposnetek posnet"</string>
+    <string msgid="1723708322021743770" name="video_camera_label">"Kamera"</string>
+    <string msgid="6895236811408921715" name="video_control_play">"Predvajaj videoposnetek"</string>
+    <string msgid="2151884014634284456" name="video_date_content_description">"Videoposnetek posnet %s"</string>
+    <string msgid="1562566029875081552" name="video_err">"Videa ni mogoče predvajati."</string>
+    <string msgid="9196836111505731836" name="video_reach_size_limit">"Dosežena je omejitev velikosti."</string>
+    <string msgid="3374878415050991030" name="video_recording_started">"Snemanje videa se je začelo."</string>
+    <string msgid="4658626532857624974" name="video_recording_stopped">"Snemanje videa se je ustavilo."</string>
+    <string msgid="2707403607250082339" name="video_snapshot_hint">"Dotaknite se, če želite fotografirati med snemanjem."</string>
+    <string msgid="4985768837891362075" name="view_button_description">"Ogled"</string>
+    <string msgid="765601745709933047" name="wait">"Počakajte …"</string>
+    <string msgid="1600142743496129085" name="white_balance">"Ravnov. beline"</string>
+    <string msgid="7045750687833828758" name="width">"Širina"</string>
+</resources>
